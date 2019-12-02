@@ -2896,3 +2896,800 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.02-14.14.11:477][161]LogEditorTransaction: Undo Move Node
 [2019.12.02-14.14.51:360][134]BlueprintLog: New page: Compile BP_Player
 [2019.12.02-14.14.51:682][134]LogUObjectHash: Compacting FUObjectHashTables data took   7.24ms
+[2019.12.02-14.21.32:499][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.12.02-14.21.32:729][755]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/2DSideScrollerExampleMap_Auto82B6E41AA40073764613C1DB879F29041.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto8.umap'
+[2019.12.02-14.21.32:893][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.431
+[2019.12.02-14.21.32:893][755]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.431
+[2019.12.02-14.21.32:895][755]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.02-14.21.32:895][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2019.12.02-14.21.33:014][755]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player_Auto877DBE91B4826C91DBAC2A2829F675D56.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_Player_Auto8.uasset'
+[2019.12.02-14.21.33:018][755]LogFileHelpers: Auto-saving content packages took 0.125
+[2019.12.02-14.22.35:296][287]BlueprintLog: New page: Compile BP_Projectile
+[2019.12.02-14.22.35:531][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.12.02-14.22.36:330][380]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.22.36:345][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.22.36:345][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.22.36:345][380]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:22:36)
+[2019.12.02-14.22.36:346][380]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.22.36:349][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003627s)
+[2019.12.02-14.22.36:350][380]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.22.36:350][380]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2019.12.02-14.22.36:350][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004766s)
+[2019.12.02-14.22.36:388][380]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2019.12.02-14.22.36:396][380]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.22.36:424][380]LogInit: FAudioDevice initialized.
+[2019.12.02-14.22.36:439][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.22.36:439][380]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.22.36:443][380]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.22.36
+[2019.12.02-14.22.36:444][380]LogWorld: Bringing up level for play took: 0.004182
+[2019.12.02-14.22.36:444][380]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2019.12.02-14.22.36:448][380]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,594
+[2019.12.02-14.22.36:448][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.22.59:279][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.22.59:279][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.22.59:279][118]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.22.59:292][118]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.22.59:298][118]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.22.59:310][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.22.59:310][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.22.59:360][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.12.02-14.22.59:386][121]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2019.12.02-14.23.04:292][590]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.02-14.24.10:443][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2019.12.02-14.24.10:474][468]LogBlueprint: Warning: [Compiler BP_Player] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2019.12.02-14.24.10:690][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.02-14.24.10:703][468]LogMetaData: Removing '/Game/Blueprints/BP_LittleProjectile.BP_LittleProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Projectile.PackageMetaData'
+[2019.12.02-14.24.10:703][468]LogMetaData: Removing '/Game/Blueprints/BP_LittleProjectile.SKEL_BP_LittleProjectile_C' ref from Metadata '/Game/Blueprints/BP_Projectile.PackageMetaData'
+[2019.12.02-14.24.10:703][468]LogMetaData: Removing '/Game/Blueprints/BP_LittleProjectile.BP_LittleProjectile_C' ref from Metadata '/Game/Blueprints/BP_Projectile.PackageMetaData'
+[2019.12.02-14.24.10:703][468]LogMetaData: Removing '/Game/Blueprints/BP_LittleProjectile.BP_LittleProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Projectile.PackageMetaData'
+[2019.12.02-14.24.10:703][468]LogMetaData: Removing '/Game/Blueprints/BP_LittleProjectile.BP_LittleProjectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Projectile.PackageMetaData'
+[2019.12.02-14.24.10:703][468]LogMetaData: Removing '/Game/Blueprints/BP_LittleProjectile.BP_LittleProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Projectile.PackageMetaData'
+[2019.12.02-14.24.10:746][468]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_LittleProjectileFAB2AA30473FA16C2D79A098D27A3B90.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_LittleProjectile.uasset'
+[2019.12.02-14.24.11:036][468]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.12.02-14.24.11:073][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.02-14.24.11:108][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.12.02-14.24.39:116][795]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.12.02-14.24.42:735][212]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_BigProjectile.BP_BigProjectile
+[2019.12.02-14.25.04:678][869]BlueprintLog: New page: Compile BP_BigProjectile
+[2019.12.02-14.25.04:930][869]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.12.02-14.25.05:564][913]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.25.05:588][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.05:588][913]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.02-14.25.05:589][913]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.02-14.25.05:602][913]LogBlueprint: Warning: [Compiler BP_Player] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2019.12.02-14.25.05:909][913]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2019.12.02-14.25.05:909][913]LogPlayLevel: PlayLevel: Blueprint regeneration took 321 ms (1 blueprints)
+[2019.12.02-14.25.05:909][913]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:25:05)
+[2019.12.02-14.25.05:909][913]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.25.05:913][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004250s)
+[2019.12.02-14.25.05:914][913]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.25.05:914][913]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2019.12.02-14.25.05:915][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005600s)
+[2019.12.02-14.25.05:960][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.02-14.25.05:970][913]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.25.06:006][913]LogInit: FAudioDevice initialized.
+[2019.12.02-14.25.06:019][913]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.25.06:023][913]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.25.06
+[2019.12.02-14.25.06:023][913]LogWorld: Bringing up level for play took: 0.003292
+[2019.12.02-14.25.06:024][913]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2019.12.02-14.25.06:026][913]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,985
+[2019.12.02-14.25.06:026][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.07:478][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.07:478][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.25.07:478][ 25]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.25.07:479][ 25]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.25.07:492][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.25.07:492][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.07:545][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.25.07:550][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.02-14.25.07:591][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2019.12.02-14.25.09:021][141]LogSlate: Window 'BP_BigProjectile' being destroyed
+[2019.12.02-14.25.10:654][334]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.25.10:676][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.10:677][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.25.10:677][334]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:25:10)
+[2019.12.02-14.25.10:677][334]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.25.10:681][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004445s)
+[2019.12.02-14.25.10:682][334]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.25.10:683][334]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2019.12.02-14.25.10:683][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005797s)
+[2019.12.02-14.25.10:727][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.02-14.25.10:737][334]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.25.10:769][334]LogInit: FAudioDevice initialized.
+[2019.12.02-14.25.10:786][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.25.10:786][334]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.25.10:791][334]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.25.10
+[2019.12.02-14.25.10:792][334]LogWorld: Bringing up level for play took: 0.005108
+[2019.12.02-14.25.10:792][334]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2019.12.02-14.25.10:797][334]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,245
+[2019.12.02-14.25.10:797][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.15:662][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.15:662][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.25.15:662][886]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.25.15:677][886]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.25.15:683][886]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.25.15:697][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.25.15:697][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.15:755][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.12.02-14.25.15:772][887]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2019.12.02-14.25.49:241][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.25.49:260][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.49:260][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.25.49:260][320]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:25:49)
+[2019.12.02-14.25.49:260][320]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.25.49:264][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003387s)
+[2019.12.02-14.25.49:265][320]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.25.49:265][320]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2019.12.02-14.25.49:265][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004586s)
+[2019.12.02-14.25.49:305][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.12.02-14.25.49:312][320]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.25.49:339][320]LogInit: FAudioDevice initialized.
+[2019.12.02-14.25.49:353][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.25.49:353][320]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.25.49:357][320]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.25.49
+[2019.12.02-14.25.49:357][320]LogWorld: Bringing up level for play took: 0.003737
+[2019.12.02-14.25.49:357][320]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2019.12.02-14.25.49:360][320]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,319
+[2019.12.02-14.25.49:361][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.53:978][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.53:978][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.25.53:978][862]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.25.53:990][862]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.25.53:996][862]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.25.54:003][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.25.54:003][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.25.54:052][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.02-14.25.54:080][865]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2019.12.02-14.26.50:478][310]BlueprintLog: New page: Compile BP_Player
+[2019.12.02-14.26.50:771][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2019.12.02-14.27.20:177][451]BlueprintLog: New page: Compile BP_Player
+[2019.12.02-14.27.20:486][451]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2019.12.02-14.30.30:694][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.02-14.30.55:288][642]BlueprintLog: New page: Compile BP_Player
+[2019.12.02-14.30.55:524][642]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2019.12.02-14.31.10:904][217]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.31.10:929][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.10:930][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.31.10:930][217]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:31:10)
+[2019.12.02-14.31.10:930][217]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.31.10:937][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007338s)
+[2019.12.02-14.31.10:939][217]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.31.10:939][217]LogPlayLevel: PIE: World Init took: (0.002055s)
+[2019.12.02-14.31.10:939][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.009604s)
+[2019.12.02-14.31.10:992][217]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2019.12.02-14.31.11:003][217]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.31.11:038][217]LogInit: FAudioDevice initialized.
+[2019.12.02-14.31.11:054][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.31.11:054][217]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.31.11:058][217]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.31.11
+[2019.12.02-14.31.11:059][217]LogWorld: Bringing up level for play took: 0.003809
+[2019.12.02-14.31.11:059][217]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2019.12.02-14.31.11:069][217]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,028
+[2019.12.02-14.31.11:069][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.25:369][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.25:369][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.31.25:369][285]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.31.25:381][285]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.31.25:390][285]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.31.25:432][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.31.25:433][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.25:483][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.02-14.31.25:591][286]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2019.12.02-14.31.49:552][114]BlueprintLog: New page: Compile BP_LittleProjectile
+[2019.12.02-14.31.49:779][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.02-14.31.50:462][191]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.31.50:480][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.50:480][191]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.02-14.31.50:483][191]LogPlayLevel: [PlayLevel] Compiling BP_BigProjectile before play...
+[2019.12.02-14.31.50:705][191]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.12.02-14.31.50:705][191]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2019.12.02-14.31.50:705][191]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:31:50)
+[2019.12.02-14.31.50:706][191]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.31.50:709][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003635s)
+[2019.12.02-14.31.50:710][191]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.31.50:710][191]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2019.12.02-14.31.50:710][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004815s)
+[2019.12.02-14.31.50:748][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2019.12.02-14.31.50:756][191]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.31.50:782][191]LogInit: FAudioDevice initialized.
+[2019.12.02-14.31.50:796][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.31.50:796][191]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.31.50:800][191]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.31.50
+[2019.12.02-14.31.50:801][191]LogWorld: Bringing up level for play took: 0.004146
+[2019.12.02-14.31.50:801][191]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2019.12.02-14.31.50:805][191]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,237
+[2019.12.02-14.31.50:805][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.55:437][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.55:437][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.31.55:437][689]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.31.55:453][689]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.31.55:458][689]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.31.55:469][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.31.55:469][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.31.55:527][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2019.12.02-14.31.55:539][690]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.12.02-14.32.04:416][729]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.32.04:440][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.04:440][729]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.02-14.32.04:443][729]LogPlayLevel: [PlayLevel] Compiling BP_LittleProjectile before play...
+[2019.12.02-14.32.04:671][729]LogPlayLevel: [PlayLevel] Compiling BP_BigProjectile before play...
+[2019.12.02-14.32.04:952][729]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.12.02-14.32.04:952][729]LogPlayLevel: PlayLevel: Blueprint regeneration took 512 ms (2 blueprints)
+[2019.12.02-14.32.04:952][729]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:32:04)
+[2019.12.02-14.32.04:952][729]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.32.04:956][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004290s)
+[2019.12.02-14.32.04:957][729]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.32.04:958][729]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2019.12.02-14.32.04:958][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005673s)
+[2019.12.02-14.32.05:003][729]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.12.02-14.32.05:013][729]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.32.05:046][729]LogInit: FAudioDevice initialized.
+[2019.12.02-14.32.05:062][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.32.05:062][729]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.32.05:067][729]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.32.05
+[2019.12.02-14.32.05:068][729]LogWorld: Bringing up level for play took: 0.005271
+[2019.12.02-14.32.05:069][729]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2019.12.02-14.32.05:073][729]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,031
+[2019.12.02-14.32.05:073][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.08:188][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.08:188][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.32.08:188][ 79]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.32.08:203][ 79]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.32.08:210][ 79]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.32.08:223][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.32.08:223][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.08:282][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2019.12.02-14.32.08:293][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.12.02-14.32.32:114][921]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.32.32:141][921]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.32:141][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.32.32:141][921]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:32:32)
+[2019.12.02-14.32.32:141][921]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.32.32:146][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004692s)
+[2019.12.02-14.32.32:147][921]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.32.32:147][921]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2019.12.02-14.32.32:147][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006285s)
+[2019.12.02-14.32.32:195][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2019.12.02-14.32.32:205][921]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.32.32:239][921]LogInit: FAudioDevice initialized.
+[2019.12.02-14.32.32:257][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.32.32:257][921]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.32.32:263][921]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.32.32
+[2019.12.02-14.32.32:264][921]LogWorld: Bringing up level for play took: 0.005677
+[2019.12.02-14.32.32:264][921]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2019.12.02-14.32.32:270][921]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,772
+[2019.12.02-14.32.32:270][921]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.35:325][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.35:326][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.32.35:326][245]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.32.35:343][245]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.32.35:350][245]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.32.35:368][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.32.35:368][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.35:430][245]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2019.12.02-14.32.35:443][246]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.12.02-14.32.42:829][102]BlueprintLog: New page: Compile BP_LittleProjectile
+[2019.12.02-14.32.43:087][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2019.12.02-14.32.44:244][225]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.32.44:267][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.44:267][225]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.02-14.32.44:270][225]LogPlayLevel: [PlayLevel] Compiling BP_BigProjectile before play...
+[2019.12.02-14.32.44:546][225]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2019.12.02-14.32.44:547][225]LogPlayLevel: PlayLevel: Blueprint regeneration took 279 ms (1 blueprints)
+[2019.12.02-14.32.44:547][225]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:32:44)
+[2019.12.02-14.32.44:547][225]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.32.44:551][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004325s)
+[2019.12.02-14.32.44:552][225]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.32.44:553][225]LogPlayLevel: PIE: World Init took: (0.001722s)
+[2019.12.02-14.32.44:553][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006259s)
+[2019.12.02-14.32.44:598][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.02-14.32.44:609][225]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.32.44:641][225]LogInit: FAudioDevice initialized.
+[2019.12.02-14.32.44:657][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.32.44:658][225]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.32.44:663][225]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.32.44
+[2019.12.02-14.32.44:664][225]LogWorld: Bringing up level for play took: 0.004730
+[2019.12.02-14.32.44:664][225]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2019.12.02-14.32.44:668][225]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,374
+[2019.12.02-14.32.44:668][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.52:515][ 73]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.52:515][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.32.52:515][ 73]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.32.52:531][ 73]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.32.52:537][ 73]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.32.52:551][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.32.52:551][ 73]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.32.52:606][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.02-14.32.52:618][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.12.02-14.33.15:196][763]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.33.15:220][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.15:220][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.33.15:220][763]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:33:15)
+[2019.12.02-14.33.15:220][763]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.33.15:225][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005089s)
+[2019.12.02-14.33.15:227][763]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.33.15:227][763]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2019.12.02-14.33.15:227][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006561s)
+[2019.12.02-14.33.15:277][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.02-14.33.15:288][763]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.33.15:320][763]LogInit: FAudioDevice initialized.
+[2019.12.02-14.33.15:337][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.33.15:337][763]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.33.15:341][763]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.33.15
+[2019.12.02-14.33.15:342][763]LogWorld: Bringing up level for play took: 0.004193
+[2019.12.02-14.33.15:342][763]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2019.12.02-14.33.15:346][763]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,305
+[2019.12.02-14.33.15:347][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.32:890][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.32:890][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.33.32:890][647]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.33.32:906][647]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.33.32:914][647]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.33.32:927][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.33.32:927][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.32:997][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2019.12.02-14.33.33:008][648]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2019.12.02-14.33.38:544][285]BlueprintLog: New page: Compile BP_BigProjectile
+[2019.12.02-14.33.38:802][285]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.12.02-14.33.39:671][371]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.02-14.33.39:694][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.39:694][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-14.33.39:694][371]PIE: New page: PIE session: 2DSideScrollerExampleMap (2 déc. 2019 16:33:39)
+[2019.12.02-14.33.39:694][371]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.33.39:699][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004494s)
+[2019.12.02-14.33.39:700][371]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.02-14.33.39:700][371]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2019.12.02-14.33.39:700][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005942s)
+[2019.12.02-14.33.39:748][371]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2019.12.02-14.33.39:759][371]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.02-14.33.39:791][371]LogInit: FAudioDevice initialized.
+[2019.12.02-14.33.39:807][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.33.39:807][371]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.12.02-14.33.39:812][371]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.12.02-15.33.39
+[2019.12.02-14.33.39:813][371]LogWorld: Bringing up level for play took: 0.004059
+[2019.12.02-14.33.39:813][371]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2019.12.02-14.33.39:817][371]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,775
+[2019.12.02-14.33.39:818][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.48:036][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.48:036][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-14.33.48:036][306]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.12.02-14.33.48:051][306]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-14.33.48:058][306]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.33.48:068][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-14.33.48:068][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.12.02-14.33.48:121][306]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.02-14.33.48:142][308]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2019.12.02-14.33.58:160][493]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.34.00:115][712]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.02-14.34.00:115][712]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.35.41:081][167]BlueprintLog: New page: Compile BP_Player
+[2019.12.02-14.35.41:382][167]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2019.12.02-14.36.30:951][837]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.12.02-14.36.31:168][837]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/2DSideScrollerExampleMap_Auto9B50A82AE4C8AC473AE00B1BFE3599E28.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto9.umap'
+[2019.12.02-14.36.31:172][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.260
+[2019.12.02-14.36.31:173][837]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.260
+[2019.12.02-14.36.31:175][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.02-14.36.31:175][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2019.12.02-14.36.31:297][837]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player_Auto961752F274F44EBA36487F1AFFF6DFE46.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_Player_Auto9.uasset'
+[2019.12.02-14.36.31:572][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_LittleProjectile] ([1] browsable assets)...
+[2019.12.02-14.36.31:572][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_LittleProjectile]
+[2019.12.02-14.36.31:611][837]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_LittleProjectile_Auto9370383D143AF7052AB18AABB0E27100B.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_LittleProjectile_Auto9.uasset'
+[2019.12.02-14.36.31:615][837]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_BigProjectile] ([1] browsable assets)...
+[2019.12.02-14.36.31:615][837]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_BigProjectile]
+[2019.12.02-14.36.31:629][837]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_BigProjectile_Auto95F6C067149A35A4789E3DDA1AA503CC8.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_BigProjectile_Auto9.uasset'
+[2019.12.02-14.36.31:632][837]LogFileHelpers: Auto-saving content packages took 0.459
+[2019.12.02-14.38.35:083][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.02-14.38.36:321][966]LogSlate: Window 'Save Content' being destroyed
+[2019.12.02-14.38.36:398][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.12.02-14.38.36:612][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/2DSideScrollerExampleMap59DD08F04A78B54ED6DD32A566D867ED.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.12.02-14.38.36:779][966]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.414
+[2019.12.02-14.38.36:786][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_0363C1B33452BBCDDAA04E7ACF9E7CD19.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_0.uasset'
+[2019.12.02-14.38.36:797][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_1C7E6A0424E5798D3858E2699EE3287FB.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_1.uasset'
+[2019.12.02-14.38.36:808][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_100D0F3FBB46A34AEE239299B87518BA40.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_10.uasset'
+[2019.12.02-14.38.36:819][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_11C3C720DE4581DC2CC4EF12A1D6B3796C.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_11.uasset'
+[2019.12.02-14.38.36:830][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_1262ADC03E4B2EB4E7276F3FA02AD337FE.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_12.uasset'
+[2019.12.02-14.38.36:840][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_13557660E44E027F408162A097D7CFF59C.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_13.uasset'
+[2019.12.02-14.38.36:851][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_14E121913D46DAA7F5F4F6519E20EFE9E5.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_14.uasset'
+[2019.12.02-14.38.36:861][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_15F76EF04E43CD8B44A44800B14CA697AC.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_15.uasset'
+[2019.12.02-14.38.36:873][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_16D69CA698422844E7D7E7109E9DA9732A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_16.uasset'
+[2019.12.02-14.38.36:884][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_179B936ABF4288A4408360FE93C9E36F58.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_17.uasset'
+[2019.12.02-14.38.36:894][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_1890F60FB14C6077E390D06A8A74803A5A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_18.uasset'
+[2019.12.02-14.38.36:906][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_194BBD2B7547B00783DF20FBAFAE386C83.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_19.uasset'
+[2019.12.02-14.38.36:916][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_2058E681146A25875CB0DD0A838BBA637.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_2.uasset'
+[2019.12.02-14.38.36:927][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_20A388FDFE4730EB025735E0AB7ADCAEE4.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_20.uasset'
+[2019.12.02-14.38.36:938][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_211133F1E04B046892D1F637A9E8774966.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_21.uasset'
+[2019.12.02-14.38.36:954][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_224635410B4CE2B7BE6BAE03B6340EC467.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_22.uasset'
+[2019.12.02-14.38.36:965][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_237843FF3946FA2F2C2208D0ABE40469B2.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_23.uasset'
+[2019.12.02-14.38.36:975][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_24F48738A044F0E5DD440F7DB87D44128E.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_24.uasset'
+[2019.12.02-14.38.36:987][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_250120B8A1403B2AE00F844AB277115E0A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_25.uasset'
+[2019.12.02-14.38.36:999][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_260B5FE3684AE3A7E49DD35DBE7556D2F5.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_26.uasset'
+[2019.12.02-14.38.37:010][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_27933E15B942EF8342733B23A782D3A8D8.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_27.uasset'
+[2019.12.02-14.38.37:021][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_28C6103FBA477FD96A098D1ABD4206324D.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_28.uasset'
+[2019.12.02-14.38.37:033][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_2901E98F634CFF1906706EF8866127C3DC.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_29.uasset'
+[2019.12.02-14.38.37:044][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_303F3374443111AE238B6DFB8A2CFF4EB.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_3.uasset'
+[2019.12.02-14.38.37:055][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_303063669D49F558CFC59566B2237BBCFA.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_30.uasset'
+[2019.12.02-14.38.37:065][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_31D27C20684B0F420B92606F86070B6FB0.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_31.uasset'
+[2019.12.02-14.38.37:076][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_32DE535F504A0428F757CD41BC126F4748.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_32.uasset'
+[2019.12.02-14.38.37:087][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_33511EBD734E61D06C4898829FC5BCDB8C.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_33.uasset'
+[2019.12.02-14.38.37:098][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_34AEC4DF4340875C31DE7AC3B22E510133.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_34.uasset'
+[2019.12.02-14.38.37:108][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_35E5762F024F6DE8FD352209AF09E19EC2.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_35.uasset'
+[2019.12.02-14.38.37:119][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_367A3DDBFD462556509EA6698D48195837.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_36.uasset'
+[2019.12.02-14.38.37:130][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_37C7637DCC4F19DF2D79B308BD0AC9F76A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_37.uasset'
+[2019.12.02-14.38.37:141][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_383391256C44197A08A4E075AF62BC2375.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_38.uasset'
+[2019.12.02-14.38.37:153][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_3916A7795E48E2D1C52E90E19945D5F263.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_39.uasset'
+[2019.12.02-14.38.37:164][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_4D90E8C344C2A990C0D8CD4921A10A948.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_4.uasset'
+[2019.12.02-14.38.37:175][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_4085715F9442D8B37E880B4191FBBDCDA2.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_40.uasset'
+[2019.12.02-14.38.37:186][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_417082D9E24E6384E5E85FE9B0FBF60552.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_41.uasset'
+[2019.12.02-14.38.37:197][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_42A11199CB4C4B05ED7836E7A9C2FD3E34.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_42.uasset'
+[2019.12.02-14.38.37:207][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_4314BA3A29446F5607625E27849FA2E13B.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_43.uasset'
+[2019.12.02-14.38.37:218][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_44F095A61A400CEABF91A39B96E44E9FE4.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_44.uasset'
+[2019.12.02-14.38.37:229][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_52531669542CA758CFBC953B72B2F4E24.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_5.uasset'
+[2019.12.02-14.38.37:240][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_685003B1449FEEA5630F145BDB2E62A5F.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_6.uasset'
+[2019.12.02-14.38.37:250][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_71FC9616D43F3FF6DC2B2F5AEA116354D.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_7.uasset'
+[2019.12.02-14.38.37:261][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_866CBE7BC40A746CF34645FAAC654EC5C.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_8.uasset'
+[2019.12.02-14.38.37:272][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/FireBall_2_64x64_Sprite_943C914B84794F1C8FA1B738163A5D92B.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Animations/Sprite/FireBall_2_64x64_Sprite_9.uasset'
+[2019.12.02-14.38.37:279][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_BigProjectile" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_BigProjectile.uasset" SILENT=true
+[2019.12.02-14.38.37:291][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_BigProjectile472042BD40907001A6A79096E3D3C6BB.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_BigProjectile.uasset'
+[2019.12.02-14.38.37:326][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_LittleProjectile0B43969C460E9FB371D7779B4D167F6A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_LittleProjectile.uasset'
+[2019.12.02-14.38.37:333][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.02-14.38.37:462][966]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player96DE75864786B2357E6DBFADE8C92FC5.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_Player.uasset'
+[2019.12.02-14.38.37:762][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.02-14.38.37:762][966]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.38.37:808][966]LogSlate: Window 'SpaceRoguelike - Unreal Editor' being destroyed
+[2019.12.02-14.38.38:712][967]Cmd: QUIT_EDITOR
+[2019.12.02-14.38.39:564][967]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.02-14.38.39:576][967]LogExit: Preparing to exit.
+[2019.12.02-14.38.40:236][967]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.38.40:262][967]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.02-14.38.40:269][967]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-14.38.40:269][967]LogExit: Editor shut down
+[2019.12.02-14.38.40:269][967]LogExit: Transaction tracking system shut down
+[2019.12.02-14.38.40:527][967]LogExit: Object subsystem successfully closed.
+[2019.12.02-14.38.40:550][967]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (678)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module TextureEditor (676)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (674)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module Voice (672)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module BlueprintGraph (670)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.02-14.38.40:588][967]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.02-14.38.40:591][967]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.02-14.38.40:592][967]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.02-14.38.40:593][967]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.02-14.38.40:593][967]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.02-14.38.40:593][967]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.02-14.38.40:593][967]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.02-14.38.40:593][967]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.02-14.38.40:593][967]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.02-14.38.42:030][967]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.02-14.38.42:031][967]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.02-14.38.42:074][967]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.02-14.38.42:080][967]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.02-14.38.42:080][967]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.02-14.38.42:080][967]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.02-14.38.42:080][967]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.02-14.38.42:082][967]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.02-14.38.42:082][967]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.02-14.38.42:082][967]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.02-14.38.42:082][967]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.02-14.38.42:083][967]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.02-14.38.42:084][967]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.02-14.38.42:088][967]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.02-14.38.42:252][967]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.02-14.38.42:252][967]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.02-14.38.42:253][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.02-14.38.42:254][967]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.02-14.38.42:355][967]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.02-14.38.42:456][967]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.02-14.38.42:456][967]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.02-14.38.42:457][967]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.02-14.38.42:457][967]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.02-14.38.42:457][967]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.02-14.38.42:457][967]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.02-14.38.42:457][967]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.02-14.38.42:458][967]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.02-14.38.42:458][967]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.02-14.38.42:459][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.02-14.38.42:459][967]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.02-14.38.42:459][967]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.02-14.38.42:461][967]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.02-14.38.42:462][967]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.02-14.38.42:463][967]LogDerivedDataCache: Shutdown
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.02-14.38.42:463][967]LogXGEController: Cleaning working directory: C:/Users/Noah/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.02-14.38.42:463][967]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.02-14.38.42:464][967]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.02-14.38.42:464][967]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.02-14.38.42:464][967]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.02-14.38.42:464][967]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.02-14.38.42:464][967]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.02-14.38.42:465][967]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.02-14.38.42:465][967]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.02-14.38.42:466][967]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.02-14.38.42:466][967]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.02-14.38.42:474][967]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.02-14.38.42:474][967]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.02-14.38.42:475][967]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.02-14.38.42:475][967]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.02-14.38.42:497][967]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.02-14.38.42:497][967]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.02-14.38.42:497][967]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B08914994-41DF-46E2-AA58-158DF0AB26D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=3e7dc73648b455a9f6b8049af81b7008%7C77fafe8689c24a7d99c2011ca348a895%7C005784e3-61c5-4d0e-93c1-c6a24c0daa43&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.02-14.38.42:519][967]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.02-14.38.42:520][967]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.02-14.38.42:521][967]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.02-14.38.42:522][967]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.02-14.38.42:522][967]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.02-14.38.42:523][967]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.02-14.38.42:525][967]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.02-14.38.42:526][967]LogD3D11RHI: Shutdown
+[2019.12.02-14.38.42:526][967]LogD3D11RHI: CleanupD3DDevice
+[2019.12.02-14.38.42:526][967]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.02-14.38.42:526][967]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.02-14.38.42:526][967]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.02-14.38.42:858][967]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.02-14.38.42:868][967]LogExit: Exiting.
+[2019.12.02-14.38.42:877][967]Log file closed, 12/02/19 15:38:42
