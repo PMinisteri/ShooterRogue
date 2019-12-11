@@ -1595,3 +1595,1396 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.11-16.14.47:746][250]LogEditorViewport: Clicking on Actor (LMB): BPTM_LVL1_A_C (BPTM_LVL1_A)
 [2019.12.11-16.14.48:629][354]LogEditorViewport: Clicking on Actor (LMB): BP_Player_C (BP_Player)
 [2019.12.11-16.16.22:804][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-16.22.25:001][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-16.22.33:014][668]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Maps/TileMaps/TM_LVL1_E1.TM_LVL1_E1
+[2019.12.11-16.22.43:555][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-16.23.09:852][494]LogSlate: Window 'TM_LVL1_E1*' being destroyed
+[2019.12.11-16.23.09:884][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.23.12:422][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.11-16.23.14:275][757]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.11-16.23.14:365][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.11-16.27.17:161][859]LogEditorViewport: Clicking on Actor (LMB): BPTM_LVL1__2F_C (BPTM_LVL1__2F)
+[2019.12.11-16.27.19:705][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-16.27.19:810][161]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Maps/TileMaps/TM_LVL1_2F.TM_LVL1_2F
+[2019.12.11-16.27.33:630][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-16.27.33:732][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TileMaps/TM_LVL1_2F" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/TileMaps/TM_LVL1_2F.uasset" SILENT=true
+[2019.12.11-16.27.34:022][780]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/TM_LVL1_2F1D2FADE84CA34F289DAC6AA531A68D4D.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/TileMaps/TM_LVL1_2F.uasset'
+[2019.12.11-16.27.35:742][963]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.27.35:798][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.27.35:798][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.27.35:798][963]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:27:35)
+[2019.12.11-16.27.35:799][963]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.27.35:816][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017270s)
+[2019.12.11-16.27.35:818][963]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.27.35:818][963]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2019.12.11-16.27.35:818][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018921s)
+[2019.12.11-16.27.35:853][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.11-16.27.35:865][963]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.27.35:899][963]LogInit: FAudioDevice initialized.
+[2019.12.11-16.27.35:908][963]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.27.35:953][963]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.27.35
+[2019.12.11-16.27.35:975][963]LogWorld: Bringing up level for play took: 0.066169
+[2019.12.11-16.27.35:976][963]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.11-16.27.35:986][963]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,34
+[2019.12.11-16.27.35:986][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.27.36:743][ 49]LogBlueprintUserMessages: [Level-Tuto_C_3] 1
+[2019.12.11-16.27.37:746][169]LogBlueprintUserMessages: [Level-Tuto_C_3] 2
+[2019.12.11-16.27.38:752][289]LogBlueprintUserMessages: [Level-Tuto_C_3] 3
+[2019.12.11-16.27.39:757][405]LogBlueprintUserMessages: [Level-Tuto_C_3] 4
+[2019.12.11-16.27.40:761][525]LogBlueprintUserMessages: [Level-Tuto_C_3] 5
+[2019.12.11-16.27.41:768][645]LogBlueprintUserMessages: [Level-Tuto_C_3] 6
+[2019.12.11-16.27.42:775][764]LogBlueprintUserMessages: [Level-Tuto_C_3] 7
+[2019.12.11-16.27.43:783][884]LogBlueprintUserMessages: [Level-Tuto_C_3] 8
+[2019.12.11-16.27.44:785][  2]LogBlueprintUserMessages: [Level-Tuto_C_3] 9
+[2019.12.11-16.27.45:792][119]LogBlueprintUserMessages: [Level-Tuto_C_3] 10
+[2019.12.11-16.27.46:715][229]LogScript: Warning: Attempted to access BP_Projectile_C_8 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_8 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.11-16.27.46:716][229]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_8 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_8 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.11-16.27.46:716][229]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.11-16.27.46:716][229]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.11-16.27.46:799][239]LogBlueprintUserMessages: [Level-Tuto_C_3] 11
+[2019.12.11-16.27.47:803][358]LogBlueprintUserMessages: [Level-Tuto_C_3] 12
+[2019.12.11-16.27.48:805][477]LogBlueprintUserMessages: [Level-Tuto_C_3] 13
+[2019.12.11-16.27.49:809][597]LogBlueprintUserMessages: [Level-Tuto_C_3] 14
+[2019.12.11-16.27.50:816][717]LogBlueprintUserMessages: [Level-Tuto_C_3] 15
+[2019.12.11-16.27.51:823][837]LogBlueprintUserMessages: [Level-Tuto_C_3] 16
+[2019.12.11-16.27.52:829][957]LogBlueprintUserMessages: [Level-Tuto_C_3] 17
+[2019.12.11-16.27.53:839][ 77]LogBlueprintUserMessages: [Level-Tuto_C_3] 18
+[2019.12.11-16.27.54:845][197]LogBlueprintUserMessages: [Level-Tuto_C_3] 19
+[2019.12.11-16.27.55:853][317]LogBlueprintUserMessages: [Level-Tuto_C_3] 20
+[2019.12.11-16.27.56:858][436]LogBlueprintUserMessages: [Level-Tuto_C_3] 21
+[2019.12.11-16.27.57:864][556]LogBlueprintUserMessages: [Level-Tuto_C_3] 22
+[2019.12.11-16.27.58:870][676]LogBlueprintUserMessages: [Level-Tuto_C_3] 23
+[2019.12.11-16.27.59:870][795]LogBlueprintUserMessages: [Level-Tuto_C_3] 24
+[2019.12.11-16.28.00:871][914]LogBlueprintUserMessages: [Level-Tuto_C_3] 25
+[2019.12.11-16.28.01:875][ 34]LogBlueprintUserMessages: [Level-Tuto_C_3] 26
+[2019.12.11-16.28.02:880][154]LogBlueprintUserMessages: [Level-Tuto_C_3] 27
+[2019.12.11-16.28.03:883][274]LogBlueprintUserMessages: [Level-Tuto_C_3] 28
+[2019.12.11-16.28.04:890][394]LogBlueprintUserMessages: [Level-Tuto_C_3] 29
+[2019.12.11-16.28.05:896][513]LogBlueprintUserMessages: [Level-Tuto_C_3] 30
+[2019.12.11-16.28.06:904][633]LogBlueprintUserMessages: [Level-Tuto_C_3] 31
+[2019.12.11-16.28.07:906][753]LogBlueprintUserMessages: [Level-Tuto_C_3] 32
+[2019.12.11-16.28.08:909][870]LogBlueprintUserMessages: [Level-Tuto_C_3] 33
+[2019.12.11-16.28.09:910][990]LogBlueprintUserMessages: [Level-Tuto_C_3] 34
+[2019.12.11-16.28.10:913][110]LogBlueprintUserMessages: [Level-Tuto_C_3] 35
+[2019.12.11-16.28.11:915][226]LogBlueprintUserMessages: [Level-Tuto_C_3] 36
+[2019.12.11-16.28.12:917][344]LogBlueprintUserMessages: [Level-Tuto_C_3] 37
+[2019.12.11-16.28.13:925][463]LogBlueprintUserMessages: [Level-Tuto_C_3] 38
+[2019.12.11-16.28.14:932][581]LogBlueprintUserMessages: [Level-Tuto_C_3] 39
+[2019.12.11-16.28.15:933][699]LogBlueprintUserMessages: [Level-Tuto_C_3] 40
+[2019.12.11-16.28.16:937][819]LogBlueprintUserMessages: [Level-Tuto_C_3] 41
+[2019.12.11-16.28.17:941][939]LogBlueprintUserMessages: [Level-Tuto_C_3] 42
+[2019.12.11-16.28.18:945][ 59]LogBlueprintUserMessages: [Level-Tuto_C_3] 43
+[2019.12.11-16.28.19:949][179]LogBlueprintUserMessages: [Level-Tuto_C_3] 44
+[2019.12.11-16.28.20:956][298]LogBlueprintUserMessages: [Level-Tuto_C_3] 45
+[2019.12.11-16.28.21:958][416]LogBlueprintUserMessages: [Level-Tuto_C_3] 46
+[2019.12.11-16.28.22:959][535]LogBlueprintUserMessages: [Level-Tuto_C_3] 47
+[2019.12.11-16.28.23:960][654]LogBlueprintUserMessages: [Level-Tuto_C_3] 48
+[2019.12.11-16.28.24:964][774]LogBlueprintUserMessages: [Level-Tuto_C_3] 49
+[2019.12.11-16.28.25:966][894]LogBlueprintUserMessages: [Level-Tuto_C_3] 50
+[2019.12.11-16.28.26:973][ 14]LogBlueprintUserMessages: [Level-Tuto_C_3] 51
+[2019.12.11-16.28.27:977][134]LogBlueprintUserMessages: [Level-Tuto_C_3] 52
+[2019.12.11-16.28.28:979][252]LogBlueprintUserMessages: [Level-Tuto_C_3] 53
+[2019.12.11-16.28.29:982][371]LogBlueprintUserMessages: [Level-Tuto_C_3] 54
+[2019.12.11-16.28.30:984][491]LogBlueprintUserMessages: [Level-Tuto_C_3] 55
+[2019.12.11-16.28.31:561][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.28.31:561][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.28.31:561][560]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.28.31:562][560]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.28.31:583][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.28.31:584][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.28.31:625][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.28.31:633][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.12.11-16.28.31:651][560]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-16.28.31:695][561]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.11-16.28.33:875][791]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-16.28.33:884][791]LogSlate: Window 'Message Log' being destroyed
+[2019.12.11-16.31.56:876][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-16.31.57:987][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.11-16.31.58:329][261]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Level-Tuto8738AC594E7BFB33951A649CD1BA554A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/Scene/Level-Tuto.umap'
+[2019.12.11-16.32.46:857][ 67]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2019.12.11-16.32.47:120][ 67]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.11-16.32.48:461][ 68]LogSlate: Took 0.000418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1F03B000-4DEB-20CF-7C5C-F79C7963A84C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=3e7dc73648b455a9f6b8049af81b7008%7C77fafe8689c24a7d99c2011ca348a895%7C005784e3-61c5-4d0e-93c1-c6a24c0daa43&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: request failed, libcurl error: 0 (No error)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x276b904ff70 [can pipeline])
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.101.210) port 443 (#20))
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 7 (Closing connection 20)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: 00000277191AAFC0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.12.11-16.33.46:955][610]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1F03B000-4DEB-20CF-7C5C-F79C7963A84C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=3e7dc73648b455a9f6b8049af81b7008%7C77fafe8689c24a7d99c2011ca348a895%7C005784e3-61c5-4d0e-93c1-c6a24c0daa43&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.12.11-16.33.47:719][696]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.33.48:079][696]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2019.12.11-16.33.49:335][774]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.33.49:368][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.33.49:368][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.33.49:368][774]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:33:49)
+[2019.12.11-16.33.49:369][774]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.33.49:386][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017194s)
+[2019.12.11-16.33.49:387][774]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.33.49:387][774]LogPlayLevel: PIE: World Init took: (0.001498s)
+[2019.12.11-16.33.49:387][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018872s)
+[2019.12.11-16.33.49:436][774]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2019.12.11-16.33.49:447][774]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.33.49:483][774]LogInit: FAudioDevice initialized.
+[2019.12.11-16.33.49:500][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.33.49:500][774]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.33.49:549][774]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.33.49
+[2019.12.11-16.33.49:572][774]LogWorld: Bringing up level for play took: 0.070564
+[2019.12.11-16.33.49:572][774]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.11-16.33.49:574][774]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.33.49:589][774]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,057
+[2019.12.11-16.33.49:589][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.33.49:627][775]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-16.33.50:328][832]LogBlueprintUserMessages: [Level-Tuto_C_4] 1
+[2019.12.11-16.33.51:333][923]LogBlueprintUserMessages: [Level-Tuto_C_4] 2
+[2019.12.11-16.33.51:420][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.33.51:420][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.33.51:420][930]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.33.51:450][930]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.33.51:457][930]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.33.51:511][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.33.51:511][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.33.51:575][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.11-16.33.51:964][931]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.11-16.42.00:532][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.11-16.42.00:939][449]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Level-Tuto_Auto2FFFF824641FDE5DB5B8487AFB2C934E2.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Maps/Scene/Level-Tuto_Auto2.umap'
+[2019.12.11-16.42.01:015][449]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Scene/Level-Tuto' took 0.520
+[2019.12.11-16.42.01:015][449]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.520
+[2019.12.11-16.42.01:016][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.11-16.42.01:016][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2019.12.11-16.42.01:302][449]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player_Auto2C0806FF343A0D8743A9F078A4153C613.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_Player_Auto2.uasset'
+[2019.12.11-16.42.01:305][449]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/TileMaps/TM_LVL1_2F] ([1] browsable assets)...
+[2019.12.11-16.42.01:305][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/TileMaps/TM_LVL1_2F]
+[2019.12.11-16.42.01:527][449]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/TM_LVL1_2F_Auto29C93735248D7CB36A0169C8061291D84.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Maps/TileMaps/TM_LVL1_2F_Auto2.uasset'
+[2019.12.11-16.42.01:530][449]LogFileHelpers: Auto-saving content packages took 0.514
+[2019.12.11-16.49.42:888][ 28]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.49.43:158][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.12.11-16.49.43:688][ 50]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.49.43:714][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.49.43:714][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.49.43:715][ 50]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:49:43)
+[2019.12.11-16.49.43:715][ 50]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.49.43:729][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013810s)
+[2019.12.11-16.49.43:730][ 50]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.49.43:730][ 50]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2019.12.11-16.49.43:730][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.015071s)
+[2019.12.11-16.49.43:769][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.11-16.49.43:777][ 50]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.49.43:804][ 50]LogInit: FAudioDevice initialized.
+[2019.12.11-16.49.43:819][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.49.43:820][ 50]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.49.43:857][ 50]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.49.43
+[2019.12.11-16.49.43:874][ 50]LogWorld: Bringing up level for play took: 0.053466
+[2019.12.11-16.49.43:874][ 50]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.11-16.49.43:876][ 50]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.49.43:888][ 50]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,242
+[2019.12.11-16.49.43:888][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.49.44:682][121]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.49.45:685][221]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.49.46:692][320]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.49.47:693][418]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.49.48:693][515]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.49.49:702][614]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.49.50:710][711]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.49.51:714][806]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.49.52:720][905]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.49.53:720][  2]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.49.54:730][ 98]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.49.55:739][191]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.49.56:746][288]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.49.57:749][384]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.49.58:756][481]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.49.59:762][579]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.50.00:770][676]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.50.01:120][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.01:121][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.50.01:121][710]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.50.01:144][710]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.50.01:151][710]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.50.01:197][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.50.01:197][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.01:247][710]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.11-16.50.01:551][711]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.11-16.50.11:007][808]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.50.11:032][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.11:032][808]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-16.50.11:042][808]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-16.50.11:347][808]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.11-16.50.11:347][808]LogPlayLevel: PlayLevel: Blueprint regeneration took 315 ms (1 blueprints)
+[2019.12.11-16.50.11:348][808]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:50:11)
+[2019.12.11-16.50.11:348][808]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.50.11:361][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012697s)
+[2019.12.11-16.50.11:362][808]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.50.11:362][808]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2019.12.11-16.50.11:362][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.013861s)
+[2019.12.11-16.50.11:399][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.11-16.50.11:407][808]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.50.11:434][808]LogInit: FAudioDevice initialized.
+[2019.12.11-16.50.11:448][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.50.11:448][808]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.50.11:487][808]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.50.11
+[2019.12.11-16.50.11:504][808]LogWorld: Bringing up level for play took: 0.055095
+[2019.12.11-16.50.11:505][808]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.11-16.50.11:506][808]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.50.11:513][808]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,133
+[2019.12.11-16.50.11:514][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.12:427][861]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.50.13:429][961]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.50.14:440][ 57]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.50.15:450][146]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.50.16:456][242]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.50.17:466][338]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.50.18:471][432]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.50.19:481][528]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.50.20:489][622]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.50.21:500][716]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.50.22:500][811]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.50.23:505][906]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.50.24:506][  1]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.50.25:515][ 96]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.50.26:515][190]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.50.27:519][285]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.50.28:519][380]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.50.29:521][474]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.50.30:526][569]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.50.31:526][662]LogBlueprintUserMessages: [Level-Tuto_C_5] 20
+[2019.12.11-16.50.32:532][754]LogBlueprintUserMessages: [Level-Tuto_C_5] 21
+[2019.12.11-16.50.33:537][847]LogBlueprintUserMessages: [Level-Tuto_C_5] 22
+[2019.12.11-16.50.34:153][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.34:153][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.50.34:153][904]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.50.34:176][904]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.50.34:182][904]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.50.34:231][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.50.34:232][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.34:283][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.11-16.50.34:588][905]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.11-16.50.39:280][450]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.50.39:542][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2019.12.11-16.50.40:236][489]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.50.40:262][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.40:262][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.50.40:262][489]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:50:40)
+[2019.12.11-16.50.40:262][489]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.50.40:275][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012786s)
+[2019.12.11-16.50.40:276][489]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.50.40:276][489]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2019.12.11-16.50.40:276][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.013969s)
+[2019.12.11-16.50.40:317][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2019.12.11-16.50.40:326][489]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.50.40:354][489]LogInit: FAudioDevice initialized.
+[2019.12.11-16.50.40:368][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.50.40:369][489]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.50.40:407][489]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.50.40
+[2019.12.11-16.50.40:424][489]LogWorld: Bringing up level for play took: 0.054682
+[2019.12.11-16.50.40:424][489]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.11-16.50.40:426][489]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.50.40:438][489]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,791
+[2019.12.11-16.50.40:438][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.41:235][563]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.50.42:236][661]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.50.43:240][756]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.50.44:241][850]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.50.45:244][938]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.50.46:253][ 21]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.50.47:262][102]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.50.48:271][182]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.50.49:273][260]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.50.50:280][340]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.50.51:286][419]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.50.52:294][498]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.50.53:300][578]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.50.54:307][658]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.50.55:314][737]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.50.56:314][817]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.50.57:319][897]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.50.58:322][976]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.50.59:327][ 55]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.50.59:579][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.59:580][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.50.59:580][ 75]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.50.59:609][ 75]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.50.59:616][ 75]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.50.59:669][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.50.59:670][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.50.59:731][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.11-16.51.00:138][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.11-16.51.04:083][489]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.51.04:105][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.51.04:105][489]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-16.51.04:113][489]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-16.51.04:414][489]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.12.11-16.51.04:414][489]LogPlayLevel: PlayLevel: Blueprint regeneration took 309 ms (1 blueprints)
+[2019.12.11-16.51.04:414][489]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:51:04)
+[2019.12.11-16.51.04:415][489]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.51.04:428][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012944s)
+[2019.12.11-16.51.04:429][489]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.51.04:429][489]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2019.12.11-16.51.04:429][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014096s)
+[2019.12.11-16.51.04:460][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.11-16.51.04:469][489]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.51.04:495][489]LogInit: FAudioDevice initialized.
+[2019.12.11-16.51.04:509][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.51.04:510][489]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.51.04:546][489]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.51.04
+[2019.12.11-16.51.04:563][489]LogWorld: Bringing up level for play took: 0.052709
+[2019.12.11-16.51.04:563][489]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.11-16.51.04:565][489]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.51.04:573][489]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,926
+[2019.12.11-16.51.04:573][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.51.05:488][546]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.51.06:493][646]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.51.07:502][740]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.51.08:513][833]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.51.09:515][924]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.51.10:517][ 19]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.51.11:523][112]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.51.12:527][204]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.51.13:535][296]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.51.14:537][388]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.51.15:540][476]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.51.16:540][569]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.51.17:548][662]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.51.18:553][756]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.51.19:556][848]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.51.20:567][943]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.51.21:572][ 37]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.51.22:574][128]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.51.23:582][223]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.51.23:914][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.51.23:914][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.51.23:915][254]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.51.23:938][254]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.51.23:943][254]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.51.23:987][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.51.23:988][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.51.24:038][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.12.11-16.51.24:344][255]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.11-16.51.27:920][661]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.51.28:173][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.11-16.51.28:860][701]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.51.28:884][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.51.28:884][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.51.28:884][701]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:51:28)
+[2019.12.11-16.51.28:885][701]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.51.28:898][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013019s)
+[2019.12.11-16.51.28:899][701]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.51.28:899][701]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2019.12.11-16.51.28:899][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014147s)
+[2019.12.11-16.51.28:936][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.11-16.51.28:944][701]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.51.28:971][701]LogInit: FAudioDevice initialized.
+[2019.12.11-16.51.28:986][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.51.28:986][701]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.51.29:023][701]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.51.29
+[2019.12.11-16.51.29:041][701]LogWorld: Bringing up level for play took: 0.053538
+[2019.12.11-16.51.29:041][701]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.11-16.51.29:043][701]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.51.29:055][701]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,592
+[2019.12.11-16.51.29:055][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.51.29:855][773]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.51.30:859][872]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.51.31:865][966]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.51.32:872][ 60]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.51.33:875][154]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.51.34:879][247]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.51.35:880][326]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.51.36:889][406]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.51.37:891][486]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.51.38:897][566]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.51.39:899][645]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.51.40:899][723]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.51.41:910][803]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.51.42:922][884]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.51.43:934][962]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.51.44:940][ 29]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.51.45:950][ 98]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.51.46:956][167]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.51.47:963][239]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.51.48:969][314]LogBlueprintUserMessages: [Level-Tuto_C_5] 20
+[2019.12.11-16.51.49:976][385]LogBlueprintUserMessages: [Level-Tuto_C_5] 21
+[2019.12.11-16.51.50:983][465]LogBlueprintUserMessages: [Level-Tuto_C_5] 22
+[2019.12.11-16.51.51:991][545]LogBlueprintUserMessages: [Level-Tuto_C_5] 23
+[2019.12.11-16.51.52:993][624]LogBlueprintUserMessages: [Level-Tuto_C_5] 24
+[2019.12.11-16.51.54:006][704]LogBlueprintUserMessages: [Level-Tuto_C_5] 25
+[2019.12.11-16.51.55:018][784]LogBlueprintUserMessages: [Level-Tuto_C_5] 26
+[2019.12.11-16.51.56:022][863]LogBlueprintUserMessages: [Level-Tuto_C_5] 27
+[2019.12.11-16.51.57:031][942]LogBlueprintUserMessages: [Level-Tuto_C_5] 28
+[2019.12.11-16.51.58:036][ 20]LogBlueprintUserMessages: [Level-Tuto_C_5] 29
+[2019.12.11-16.51.59:047][ 99]LogBlueprintUserMessages: [Level-Tuto_C_5] 30
+[2019.12.11-16.52.00:049][177]LogBlueprintUserMessages: [Level-Tuto_C_5] 31
+[2019.12.11-16.52.01:051][255]LogBlueprintUserMessages: [Level-Tuto_C_5] 32
+[2019.12.11-16.52.01:620][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.01:620][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.52.01:621][301]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.52.01:650][301]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.52.01:658][301]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.52.01:710][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.52.01:710][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.01:774][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.12.11-16.52.02:172][302]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.11-16.52.06:542][771]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.52.06:572][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.06:572][771]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-16.52.06:582][771]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-16.52.06:972][771]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2019.12.11-16.52.06:972][771]LogPlayLevel: PlayLevel: Blueprint regeneration took 401 ms (1 blueprints)
+[2019.12.11-16.52.06:972][771]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:52:06)
+[2019.12.11-16.52.06:973][771]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.52.06:990][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016652s)
+[2019.12.11-16.52.06:991][771]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.52.06:991][771]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2019.12.11-16.52.06:991][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018119s)
+[2019.12.11-16.52.07:038][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.12.11-16.52.07:050][771]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.52.07:083][771]LogInit: FAudioDevice initialized.
+[2019.12.11-16.52.07:099][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.52.07:100][771]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.52.07:147][771]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.52.07
+[2019.12.11-16.52.07:170][771]LogWorld: Bringing up level for play took: 0.068711
+[2019.12.11-16.52.07:170][771]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.11-16.52.07:172][771]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.52.07:181][771]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 1,535
+[2019.12.11-16.52.07:182][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.08:197][819]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.52.09:205][905]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.52.10:213][985]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.52.11:221][ 64]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.52.12:229][144]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.52.13:241][225]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.52.14:250][306]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.52.15:265][378]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.52.16:271][457]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.52.17:280][537]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.52.18:289][617]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.52.19:298][697]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.52.20:310][778]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.52.21:320][858]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.52.22:326][933]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.52.23:331][ 12]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.52.24:341][ 87]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.52.25:351][165]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.52.26:357][245]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.52.27:362][324]LogBlueprintUserMessages: [Level-Tuto_C_5] 20
+[2019.12.11-16.52.28:366][403]LogBlueprintUserMessages: [Level-Tuto_C_5] 21
+[2019.12.11-16.52.29:376][482]LogBlueprintUserMessages: [Level-Tuto_C_5] 22
+[2019.12.11-16.52.30:380][560]LogBlueprintUserMessages: [Level-Tuto_C_5] 23
+[2019.12.11-16.52.30:407][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.30:407][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.52.30:407][562]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.52.30:437][562]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.52.30:445][562]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.52.30:502][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.52.30:502][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.30:559][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.12.11-16.52.30:968][563]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.11-16.52.34:896][  2]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.52.34:921][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.34:921][  2]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-16.52.34:928][  2]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-16.52.35:229][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.11-16.52.35:229][  2]LogPlayLevel: PlayLevel: Blueprint regeneration took 309 ms (1 blueprints)
+[2019.12.11-16.52.35:229][  2]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:52:35)
+[2019.12.11-16.52.35:230][  2]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.52.35:243][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013026s)
+[2019.12.11-16.52.35:244][  2]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.52.35:244][  2]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2019.12.11-16.52.35:244][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014237s)
+[2019.12.11-16.52.35:279][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.12.11-16.52.35:288][  2]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.52.35:313][  2]LogInit: FAudioDevice initialized.
+[2019.12.11-16.52.35:327][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.52.35:327][  2]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.52.35:363][  2]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.52.35
+[2019.12.11-16.52.35:381][  2]LogWorld: Bringing up level for play took: 0.052661
+[2019.12.11-16.52.35:381][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.11-16.52.35:383][  2]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.52.35:390][  2]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,256
+[2019.12.11-16.52.35:390][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.52.36:309][ 59]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.52.37:309][160]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.52.38:310][255]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.52.39:312][348]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.52.40:316][441]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.52.41:320][534]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.52.42:326][628]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.52.43:326][722]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.52.44:334][816]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.52.45:337][903]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.52.46:343][997]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.52.47:350][ 89]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.52.48:357][183]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.52.49:360][276]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.52.50:361][370]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.52.51:371][465]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.52.52:374][557]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.52.53:383][652]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.52.54:392][746]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.52.55:395][838]LogBlueprintUserMessages: [Level-Tuto_C_5] 20
+[2019.12.11-16.52.56:396][932]LogBlueprintUserMessages: [Level-Tuto_C_5] 21
+[2019.12.11-16.52.57:400][ 27]LogBlueprintUserMessages: [Level-Tuto_C_5] 22
+[2019.12.11-16.52.58:408][121]LogBlueprintUserMessages: [Level-Tuto_C_5] 23
+[2019.12.11-16.52.59:415][214]LogBlueprintUserMessages: [Level-Tuto_C_5] 24
+[2019.12.11-16.53.00:424][307]LogBlueprintUserMessages: [Level-Tuto_C_5] 25
+[2019.12.11-16.53.01:433][401]LogBlueprintUserMessages: [Level-Tuto_C_5] 26
+[2019.12.11-16.53.02:436][494]LogBlueprintUserMessages: [Level-Tuto_C_5] 27
+[2019.12.11-16.53.02:448][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.02:448][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.53.02:448][495]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.53.02:471][495]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.53.02:477][495]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.53.02:524][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.53.02:524][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.02:574][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.11-16.53.02:880][496]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.11-16.53.06:901][954]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.53.06:927][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.06:927][954]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-16.53.06:935][954]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-16.53.07:240][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.11-16.53.07:240][954]LogPlayLevel: PlayLevel: Blueprint regeneration took 312 ms (1 blueprints)
+[2019.12.11-16.53.07:240][954]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:53:07)
+[2019.12.11-16.53.07:240][954]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.53.07:254][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013183s)
+[2019.12.11-16.53.07:254][954]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.53.07:255][954]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2019.12.11-16.53.07:255][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014329s)
+[2019.12.11-16.53.07:289][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.12.11-16.53.07:298][954]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.53.07:324][954]LogInit: FAudioDevice initialized.
+[2019.12.11-16.53.07:339][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.53.07:339][954]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.53.07:376][954]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.53.07
+[2019.12.11-16.53.07:393][954]LogWorld: Bringing up level for play took: 0.053236
+[2019.12.11-16.53.07:393][954]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.11-16.53.07:395][954]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.53.07:403][954]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,243
+[2019.12.11-16.53.07:403][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.08:322][ 11]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.53.09:326][112]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.53.10:328][205]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.53.11:333][286]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.53.12:344][365]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.53.13:353][445]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.53.14:354][523]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.53.15:366][598]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.53.16:375][678]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.53.17:383][757]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.53.18:385][837]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.53.19:395][917]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.53.20:319][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.20:320][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.53.20:320][989]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.53.20:350][989]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.53.20:357][989]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.53.20:413][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.53.20:414][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.20:474][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.12.11-16.53.20:875][990]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.11-16.53.27:264][669]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.53.27:296][669]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.27:296][669]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-16.53.27:307][669]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-16.53.27:739][669]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2019.12.11-16.53.27:739][669]LogPlayLevel: PlayLevel: Blueprint regeneration took 442 ms (1 blueprints)
+[2019.12.11-16.53.27:739][669]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:53:27)
+[2019.12.11-16.53.27:739][669]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.53.27:757][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017877s)
+[2019.12.11-16.53.27:758][669]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.53.27:759][669]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2019.12.11-16.53.27:759][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.019465s)
+[2019.12.11-16.53.27:805][669]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2019.12.11-16.53.27:816][669]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.53.27:852][669]LogInit: FAudioDevice initialized.
+[2019.12.11-16.53.27:869][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.53.27:869][669]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.53.27:920][669]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.53.27
+[2019.12.11-16.53.27:943][669]LogWorld: Bringing up level for play took: 0.072774
+[2019.12.11-16.53.27:943][669]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.11-16.53.27:945][669]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.53.27:955][669]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,308
+[2019.12.11-16.53.27:955][669]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.53.29:000][713]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.53.30:000][789]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.53.31:013][851]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.53.32:019][923]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.53.33:023][  1]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.53.34:026][ 79]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.53.35:038][157]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.53.36:051][235]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.53.37:059][312]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.53.38:059][390]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.53.39:069][467]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.53.40:074][544]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.53.41:077][618]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.53.42:089][695]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.53.43:097][773]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.53.44:107][851]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.53.45:122][924]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.53.46:135][  1]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.53.47:147][ 80]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.53.48:152][157]LogBlueprintUserMessages: [Level-Tuto_C_5] 20
+[2019.12.11-16.53.49:160][235]LogBlueprintUserMessages: [Level-Tuto_C_5] 21
+[2019.12.11-16.53.50:164][312]LogBlueprintUserMessages: [Level-Tuto_C_5] 22
+[2019.12.11-16.53.51:167][389]LogBlueprintUserMessages: [Level-Tuto_C_5] 23
+[2019.12.11-16.53.52:169][465]LogBlueprintUserMessages: [Level-Tuto_C_5] 24
+[2019.12.11-16.53.53:174][543]LogBlueprintUserMessages: [Level-Tuto_C_5] 25
+[2019.12.11-16.53.54:183][619]LogBlueprintUserMessages: [Level-Tuto_C_5] 26
+[2019.12.11-16.53.55:194][695]LogBlueprintUserMessages: [Level-Tuto_C_5] 27
+[2019.12.11-16.53.56:198][770]LogBlueprintUserMessages: [Level-Tuto_C_5] 28
+[2019.12.11-16.53.57:206][847]LogBlueprintUserMessages: [Level-Tuto_C_5] 29
+[2019.12.11-16.53.58:216][924]LogBlueprintUserMessages: [Level-Tuto_C_5] 30
+[2019.12.11-16.53.59:218][999]LogBlueprintUserMessages: [Level-Tuto_C_5] 31
+[2019.12.11-16.54.00:218][ 75]LogBlueprintUserMessages: [Level-Tuto_C_5] 32
+[2019.12.11-16.54.01:220][152]LogBlueprintUserMessages: [Level-Tuto_C_5] 33
+[2019.12.11-16.54.02:224][229]LogBlueprintUserMessages: [Level-Tuto_C_5] 34
+[2019.12.11-16.54.03:234][307]LogBlueprintUserMessages: [Level-Tuto_C_5] 35
+[2019.12.11-16.54.03:516][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.03:517][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.54.03:517][329]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.54.03:547][329]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.54.03:555][329]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.54.03:613][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.54.03:613][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.03:678][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.11-16.54.04:085][330]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.11-16.54.08:654][777]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.54.09:056][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2019.12.11-16.54.09:564][779]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.54.09:600][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.09:600][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.54.09:600][779]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:54:09)
+[2019.12.11-16.54.09:601][779]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.54.09:619][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018305s)
+[2019.12.11-16.54.09:620][779]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.54.09:621][779]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2019.12.11-16.54.09:621][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.019801s)
+[2019.12.11-16.54.09:673][779]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2019.12.11-16.54.09:684][779]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.54.09:719][779]LogInit: FAudioDevice initialized.
+[2019.12.11-16.54.09:738][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.54.09:738][779]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.54.09:790][779]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.54.09
+[2019.12.11-16.54.09:812][779]LogWorld: Bringing up level for play took: 0.072565
+[2019.12.11-16.54.09:813][779]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.11-16.54.09:814][779]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.54.09:829][779]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,183
+[2019.12.11-16.54.09:829][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.10:556][835]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.54.11:565][918]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.54.12:572][998]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.54.13:584][ 80]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.54.14:586][159]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.54.15:591][232]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.54.16:594][311]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.54.17:595][391]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.54.18:598][471]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.54.19:600][551]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.54.20:615][630]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.54.21:618][709]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.54.22:621][788]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.54.22:723][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.22:724][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.54.22:724][796]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.54.22:755][796]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.54.22:763][796]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.54.22:817][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.54.22:817][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.22:879][796]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.11-16.54.23:224][797]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.11-16.54.26:585][185]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.54.26:848][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.11-16.54.27:646][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.54.27:671][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.27:671][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.54.27:671][237]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:54:27)
+[2019.12.11-16.54.27:672][237]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.54.27:685][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012790s)
+[2019.12.11-16.54.27:686][237]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.54.27:686][237]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.12.11-16.54.27:686][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.013881s)
+[2019.12.11-16.54.27:719][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.11-16.54.27:728][237]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.54.27:754][237]LogInit: FAudioDevice initialized.
+[2019.12.11-16.54.27:769][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.54.27:769][237]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.54.27:806][237]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.54.27
+[2019.12.11-16.54.27:824][237]LogWorld: Bringing up level for play took: 0.053366
+[2019.12.11-16.54.27:824][237]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.11-16.54.27:825][237]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.54.27:837][237]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,191
+[2019.12.11-16.54.27:838][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.54.28:647][312]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.54.29:648][409]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.54.30:653][501]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.54.31:654][594]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.54.32:664][688]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.54.33:668][775]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.54.34:670][866]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.54.35:673][959]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.54.36:676][ 53]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.54.37:676][144]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.54.38:682][237]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.54.39:683][330]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.54.40:689][422]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.54.41:694][516]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.54.42:703][609]LogBlueprintUserMessages: [Level-Tuto_C_5] 15
+[2019.12.11-16.54.43:705][698]LogBlueprintUserMessages: [Level-Tuto_C_5] 16
+[2019.12.11-16.54.44:708][788]LogBlueprintUserMessages: [Level-Tuto_C_5] 17
+[2019.12.11-16.54.45:710][876]LogBlueprintUserMessages: [Level-Tuto_C_5] 18
+[2019.12.11-16.54.46:715][968]LogBlueprintUserMessages: [Level-Tuto_C_5] 19
+[2019.12.11-16.54.47:718][ 61]LogBlueprintUserMessages: [Level-Tuto_C_5] 20
+[2019.12.11-16.54.48:724][155]LogBlueprintUserMessages: [Level-Tuto_C_5] 21
+[2019.12.11-16.54.49:734][244]LogBlueprintUserMessages: [Level-Tuto_C_5] 22
+[2019.12.11-16.54.50:736][324]LogBlueprintUserMessages: [Level-Tuto_C_5] 23
+[2019.12.11-16.54.51:745][402]LogBlueprintUserMessages: [Level-Tuto_C_5] 24
+[2019.12.11-16.54.52:747][477]LogBlueprintUserMessages: [Level-Tuto_C_5] 25
+[2019.12.11-16.54.53:753][555]LogBlueprintUserMessages: [Level-Tuto_C_5] 26
+[2019.12.11-16.54.54:757][635]LogBlueprintUserMessages: [Level-Tuto_C_5] 27
+[2019.12.11-16.54.55:761][714]LogBlueprintUserMessages: [Level-Tuto_C_5] 28
+[2019.12.11-16.54.56:774][794]LogBlueprintUserMessages: [Level-Tuto_C_5] 29
+[2019.12.11-16.54.57:781][872]LogBlueprintUserMessages: [Level-Tuto_C_5] 30
+[2019.12.11-16.54.58:790][952]LogBlueprintUserMessages: [Level-Tuto_C_5] 31
+[2019.12.11-16.54.59:803][ 32]LogBlueprintUserMessages: [Level-Tuto_C_5] 32
+[2019.12.11-16.55.00:805][110]LogBlueprintUserMessages: [Level-Tuto_C_5] 33
+[2019.12.11-16.55.01:811][189]LogBlueprintUserMessages: [Level-Tuto_C_5] 34
+[2019.12.11-16.55.02:813][268]LogBlueprintUserMessages: [Level-Tuto_C_5] 35
+[2019.12.11-16.55.03:824][347]LogBlueprintUserMessages: [Level-Tuto_C_5] 36
+[2019.12.11-16.55.04:836][427]LogBlueprintUserMessages: [Level-Tuto_C_5] 37
+[2019.12.11-16.55.05:842][505]LogBlueprintUserMessages: [Level-Tuto_C_5] 38
+[2019.12.11-16.55.06:854][585]LogBlueprintUserMessages: [Level-Tuto_C_5] 39
+[2019.12.11-16.55.07:860][665]LogBlueprintUserMessages: [Level-Tuto_C_5] 40
+[2019.12.11-16.55.08:866][744]LogBlueprintUserMessages: [Level-Tuto_C_5] 41
+[2019.12.11-16.55.09:874][823]LogBlueprintUserMessages: [Level-Tuto_C_5] 42
+[2019.12.11-16.55.10:874][902]LogBlueprintUserMessages: [Level-Tuto_C_5] 43
+[2019.12.11-16.55.11:882][981]LogBlueprintUserMessages: [Level-Tuto_C_5] 44
+[2019.12.11-16.55.12:885][ 61]LogBlueprintUserMessages: [Level-Tuto_C_5] 45
+[2019.12.11-16.55.13:888][140]LogBlueprintUserMessages: [Level-Tuto_C_5] 46
+[2019.12.11-16.55.14:893][217]LogBlueprintUserMessages: [Level-Tuto_C_5] 47
+[2019.12.11-16.55.15:902][293]LogBlueprintUserMessages: [Level-Tuto_C_5] 48
+[2019.12.11-16.55.16:913][373]LogBlueprintUserMessages: [Level-Tuto_C_5] 49
+[2019.12.11-16.55.17:922][453]LogBlueprintUserMessages: [Level-Tuto_C_5] 50
+[2019.12.11-16.55.18:928][533]LogBlueprintUserMessages: [Level-Tuto_C_5] 51
+[2019.12.11-16.55.19:932][612]LogBlueprintUserMessages: [Level-Tuto_C_5] 52
+[2019.12.11-16.55.20:944][690]LogBlueprintUserMessages: [Level-Tuto_C_5] 53
+[2019.12.11-16.55.21:417][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.55.21:418][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.55.21:418][727]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.55.21:448][727]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.55.21:456][727]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.55.21:514][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.55.21:514][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.55.21:582][727]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.12.11-16.55.21:980][728]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.11-16.55.51:485][922]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.55.51:755][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.12.11-16.55.52:237][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.55.52:262][945]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.55.52:262][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.55.52:262][945]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:55:52)
+[2019.12.11-16.55.52:262][945]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.55.52:276][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013421s)
+[2019.12.11-16.55.52:277][945]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.55.52:277][945]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2019.12.11-16.55.52:277][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014622s)
+[2019.12.11-16.55.52:315][945]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.12.11-16.55.52:324][945]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.55.52:350][945]LogInit: FAudioDevice initialized.
+[2019.12.11-16.55.52:364][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.55.52:364][945]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.55.52:401][945]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.55.52
+[2019.12.11-16.55.52:419][945]LogWorld: Bringing up level for play took: 0.053675
+[2019.12.11-16.55.52:419][945]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.11-16.55.52:421][945]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.55.52:433][945]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,786
+[2019.12.11-16.55.52:433][945]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.55.53:232][ 12]LogBlueprintUserMessages: [Level-Tuto_C_5] 1
+[2019.12.11-16.55.54:233][102]LogBlueprintUserMessages: [Level-Tuto_C_5] 2
+[2019.12.11-16.55.55:237][188]LogBlueprintUserMessages: [Level-Tuto_C_5] 3
+[2019.12.11-16.55.55:829][239]LogBlueprintUserMessages: [BP_Player_2] true
+[2019.12.11-16.55.56:244][274]LogBlueprintUserMessages: [Level-Tuto_C_5] 4
+[2019.12.11-16.55.57:251][361]LogBlueprintUserMessages: [Level-Tuto_C_5] 5
+[2019.12.11-16.55.57:563][388]LogBlueprintUserMessages: [BP_Player_2] false
+[2019.12.11-16.55.57:833][411]LogBlueprintUserMessages: [BP_Player_2] false
+[2019.12.11-16.55.58:047][429]LogBlueprintUserMessages: [BP_Player_2] false
+[2019.12.11-16.55.58:260][447]LogBlueprintUserMessages: [Level-Tuto_C_5] 6
+[2019.12.11-16.55.59:271][532]LogBlueprintUserMessages: [Level-Tuto_C_5] 7
+[2019.12.11-16.56.00:278][618]LogBlueprintUserMessages: [Level-Tuto_C_5] 8
+[2019.12.11-16.56.00:712][656]LogBlueprintUserMessages: [BP_Player_2] true
+[2019.12.11-16.56.01:286][705]LogBlueprintUserMessages: [Level-Tuto_C_5] 9
+[2019.12.11-16.56.01:403][715]LogBlueprintUserMessages: [BP_Player_2] true
+[2019.12.11-16.56.02:045][770]LogBlueprintUserMessages: [BP_Player_2] true
+[2019.12.11-16.56.02:296][792]LogBlueprintUserMessages: [Level-Tuto_C_5] 10
+[2019.12.11-16.56.03:083][859]LogBlueprintUserMessages: [BP_Player_2] false
+[2019.12.11-16.56.03:305][878]LogBlueprintUserMessages: [Level-Tuto_C_5] 11
+[2019.12.11-16.56.04:312][963]LogBlueprintUserMessages: [Level-Tuto_C_5] 12
+[2019.12.11-16.56.05:261][ 45]LogBlueprintUserMessages: [BP_Player_2] true
+[2019.12.11-16.56.05:319][ 50]LogBlueprintUserMessages: [Level-Tuto_C_5] 13
+[2019.12.11-16.56.06:126][119]LogBlueprintUserMessages: [BP_Player_2] false
+[2019.12.11-16.56.06:320][135]LogBlueprintUserMessages: [Level-Tuto_C_5] 14
+[2019.12.11-16.56.07:233][209]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.56.07:234][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.56.07:234][209]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.56.07:264][209]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.56.07:274][209]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.56.07:331][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.56.07:331][209]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.56.07:398][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.11-16.56.07:696][210]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.11-16.56.46:096][793]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.56.46:375][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.11-16.56.50:744][252]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto
+[2019.12.11-16.56.54:644][654]BlueprintLog: New page: Compile Level-Tuto
+[2019.12.11-16.56.54:860][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2019.12.11-16.56.55:336][707]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.56.55:360][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.56.55:360][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.56.55:361][707]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:56:55)
+[2019.12.11-16.56.55:362][707]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.56.55:375][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012775s)
+[2019.12.11-16.56.55:376][707]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.56.55:376][707]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2019.12.11-16.56.55:376][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.013900s)
+[2019.12.11-16.56.55:415][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.12.11-16.56.55:423][707]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.56.55:450][707]LogInit: FAudioDevice initialized.
+[2019.12.11-16.56.55:463][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.56.55:464][707]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.56.55:502][707]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.56.55
+[2019.12.11-16.56.55:519][707]LogWorld: Bringing up level for play took: 0.054564
+[2019.12.11-16.56.55:519][707]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.11-16.56.55:521][707]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.56.55:528][707]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,118
+[2019.12.11-16.56.55:529][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.57.00:656][280]LogBlueprintUserMessages: [BP_Player_2] X=747.237 Y=-0.000 Z=-312.418X=804.344 Y=-0.000 Z=-312.418
+[2019.12.11-16.57.03:620][628]LogBlueprintUserMessages: [BP_Player_2] X=686.131 Y=-0.000 Z=-537.509X=743.238 Y=-0.000 Z=-537.509
+[2019.12.11-16.57.04:211][698]LogBlueprintUserMessages: [BP_Player_2] X=792.725 Y=-0.000 Z=-472.400X=849.832 Y=-0.000 Z=-472.400
+[2019.12.11-16.57.04:828][768]LogBlueprintUserMessages: [BP_Player_2] X=686.184 Y=-0.000 Z=-411.747X=743.290 Y=-0.000 Z=-411.747
+[2019.12.11-16.57.05:450][832]LogBlueprintUserMessages: [BP_Player_2] X=792.704 Y=-0.000 Z=-352.733X=849.811 Y=-0.000 Z=-352.733
+[2019.12.11-16.57.08:224][116]LogBlueprintUserMessages: [BP_Player_2] X=686.859 Y=-0.000 Z=-461.052X=743.965 Y=-0.000 Z=-461.052
+[2019.12.11-16.57.09:095][205]LogBlueprintUserMessages: [BP_Player_2] X=792.686 Y=-0.000 Z=-484.526X=849.793 Y=-0.000 Z=-484.526
+[2019.12.11-16.57.12:119][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.57.12:119][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.57.12:119][514]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.57.12:150][514]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-16.57.12:159][514]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-16.57.12:223][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-16.57.12:223][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.57.12:285][514]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.11-16.57.12:312][515]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.11-16.57.41:383][206]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::GetActorForwardVector' [Élément introuvable.]
+[2019.12.11-16.58.29:461][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.12.11-16.58.29:912][889]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Level-Tuto_Auto3E6DCE4454462D985A938F7857C295357.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Maps/Scene/Level-Tuto_Auto3.umap'
+[2019.12.11-16.58.29:980][889]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Scene/Level-Tuto' took 0.562
+[2019.12.11-16.58.29:980][889]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.562
+[2019.12.11-16.58.29:982][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.11-16.58.29:982][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2019.12.11-16.58.30:311][889]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player_Auto3731889504B3F88D05DA1AAA2E711EC5B.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_Player_Auto3.uasset'
+[2019.12.11-16.58.30:314][889]LogFileHelpers: Auto-saving content packages took 0.333
+[2019.12.11-16.59.51:829][930]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-16.59.52:107][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.11-16.59.52:566][951]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-16.59.52:592][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-16.59.52:592][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-16.59.52:592][951]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 18:59:52)
+[2019.12.11-16.59.52:592][951]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-16.59.52:605][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012779s)
+[2019.12.11-16.59.52:606][951]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-16.59.52:606][951]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2019.12.11-16.59.52:606][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014052s)
+[2019.12.11-16.59.52:645][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2019.12.11-16.59.52:654][951]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-16.59.52:681][951]LogInit: FAudioDevice initialized.
+[2019.12.11-16.59.52:696][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-16.59.52:696][951]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-16.59.52:734][951]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-17.59.52
+[2019.12.11-16.59.52:752][951]LogWorld: Bringing up level for play took: 0.054077
+[2019.12.11-16.59.52:752][951]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.11-16.59.52:753][951]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-16.59.52:765][951]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 1,119
+[2019.12.11-16.59.52:766][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.00.06:442][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.00.06:443][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.00.06:443][180]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.00.06:465][180]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-17.00.06:471][180]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.00.06:522][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-17.00.06:522][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.00.06:573][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.11-17.00.06:801][181]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.11-17.04.18:405][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-17.05.23:525][481]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-17.05.23:547][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.05.23:547][481]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.11-17.05.23:556][481]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2019.12.11-17.05.23:886][481]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.11-17.05.23:886][481]LogPlayLevel: PlayLevel: Blueprint regeneration took 338 ms (1 blueprints)
+[2019.12.11-17.05.23:886][481]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 19:05:23)
+[2019.12.11-17.05.23:887][481]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.05.23:902][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015460s)
+[2019.12.11-17.05.23:903][481]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-17.05.23:904][481]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2019.12.11-17.05.23:904][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.016793s)
+[2019.12.11-17.05.23:936][481]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.11-17.05.23:945][481]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-17.05.23:972][481]LogInit: FAudioDevice initialized.
+[2019.12.11-17.05.23:986][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.05.23:986][481]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-17.05.24:025][481]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-18.05.24
+[2019.12.11-17.05.24:042][481]LogWorld: Bringing up level for play took: 0.054800
+[2019.12.11-17.05.24:043][481]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.12.11-17.05.24:044][481]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-17.05.24:051][481]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,405
+[2019.12.11-17.05.24:052][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.05.40:940][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.05.40:940][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.05.40:941][842]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.05.40:970][842]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-17.05.40:981][842]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.05.41:044][842]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-17.05.41:045][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.05.41:106][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.12.11-17.05.41:313][843]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.12.11-17.05.47:395][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-17.05.47:428][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.05.47:428][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-17.05.47:428][509]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 19:05:47)
+[2019.12.11-17.05.47:428][509]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.05.47:445][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016787s)
+[2019.12.11-17.05.47:447][509]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-17.05.47:447][509]LogPlayLevel: PIE: World Init took: (0.001348s)
+[2019.12.11-17.05.47:447][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018315s)
+[2019.12.11-17.05.47:491][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.11-17.05.47:502][509]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-17.05.47:536][509]LogInit: FAudioDevice initialized.
+[2019.12.11-17.05.47:553][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.05.47:553][509]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-17.05.47:603][509]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-18.05.47
+[2019.12.11-17.05.47:625][509]LogWorld: Bringing up level for play took: 0.070912
+[2019.12.11-17.05.47:626][509]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.12.11-17.05.47:627][509]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-17.05.47:642][509]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,004
+[2019.12.11-17.05.47:643][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.06.03:790][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.06.03:791][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.06.03:791][770]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.06.03:820][770]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-17.06.03:831][770]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.06.03:887][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-17.06.03:887][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.06.03:948][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.12.11-17.06.04:156][771]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.12.11-17.06.12:400][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-17.06.34:263][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-17.06.49:100][283]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-17.06.49:381][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.12.11-17.06.50:207][354]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-17.06.50:234][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.06.50:234][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-17.06.50:234][354]PIE: New page: PIE session: Level-Tuto (11 déc. 2019 19:06:50)
+[2019.12.11-17.06.50:235][354]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.06.50:248][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012842s)
+[2019.12.11-17.06.50:249][354]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.11-17.06.50:249][354]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2019.12.11-17.06.50:249][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.013940s)
+[2019.12.11-17.06.50:283][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.11-17.06.50:292][354]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-17.06.50:322][354]LogInit: FAudioDevice initialized.
+[2019.12.11-17.06.50:336][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.06.50:336][354]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.11-17.06.50:377][354]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.11-18.06.50
+[2019.12.11-17.06.50:395][354]LogWorld: Bringing up level for play took: 0.057937
+[2019.12.11-17.06.50:395][354]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2019.12.11-17.06.50:397][354]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.11-17.06.50:408][354]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,762
+[2019.12.11-17.06.50:409][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.07.10:245][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.07.10:245][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-17.07.10:246][131]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.11-17.07.10:274][131]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.11-17.07.10:285][131]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.07.10:348][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-17.07.10:348][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.11-17.07.10:414][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.11-17.07.10:620][132]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.12.11-17.08.03:852][110]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-17.08.04:139][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.11-17.08.10:418][788]BlueprintLog: New page: Compile BP_Player
+[2019.12.11-17.08.10:693][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2019.12.11-17.08.12:442][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.11-17.08.13:457][949]LogSlate: Window 'Save Content' being destroyed
+[2019.12.11-17.08.13:492][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2019.12.11-17.08.13:778][949]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player32DBA44F408A66505538AE8E039E08CB.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Blueprints/BP_Player.uasset'
+[2019.12.11-17.08.13:818][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.11-17.08.14:230][949]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Level-Tuto119E29B647A0E2CC61186E9046CB5841.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/Scene/Level-Tuto.umap'
+[2019.12.11-17.08.14:279][949]LogFileHelpers: Saving map 'Level-Tuto' took 0.494
+[2019.12.11-17.08.14:285][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TileMaps/TM_LVL1_2F" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/TileMaps/TM_LVL1_2F.uasset" SILENT=true
+[2019.12.11-17.08.14:510][949]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/TM_LVL1_2FA32537DB4FA5872C53C015AF8ED66DDB.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/TileMaps/TM_LVL1_2F.uasset'
+[2019.12.11-17.08.14:646][949]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.08.14:679][949]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.08.14:762][949]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.08.14:813][949]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.08.14:847][949]LogSlate: Window 'SpaceRoguelike - Unreal Editor' being destroyed
+[2019.12.11-17.08.15:014][950]Cmd: QUIT_EDITOR
+[2019.12.11-17.08.15:648][950]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.11-17.08.15:660][950]LogExit: Preparing to exit.
+[2019.12.11-17.08.16:619][950]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.08.16:640][950]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.11-17.08.16:653][950]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-17.08.16:653][950]LogExit: Editor shut down
+[2019.12.11-17.08.16:653][950]LogExit: Transaction tracking system shut down
+[2019.12.11-17.08.16:975][950]LogExit: Object subsystem successfully closed.
+[2019.12.11-17.08.16:993][950]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.11-17.08.17:032][950]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.12.11-17.08.17:032][950]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.12.11-17.08.17:032][950]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.12.11-17.08.17:032][950]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.11-17.08.17:032][950]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.11-17.08.17:032][950]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.11-17.08.17:033][950]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.11-17.08.17:034][950]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.11-17.08.17:035][950]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.11-17.08.17:035][950]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.11-17.08.17:035][950]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.11-17.08.17:035][950]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.11-17.08.17:333][950]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.11-17.08.17:334][950]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.11-17.08.17:376][950]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.11-17.08.17:382][950]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.11-17.08.17:383][950]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.11-17.08.17:383][950]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.11-17.08.17:383][950]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.11-17.08.17:383][950]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.11-17.08.17:384][950]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.11-17.08.17:387][950]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.11-17.08.17:418][950]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.11-17.08.17:419][950]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.11-17.08.17:420][950]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.11-17.08.17:521][950]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.11-17.08.17:622][950]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.11-17.08.17:622][950]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.11-17.08.17:623][950]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.11-17.08.17:623][950]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.11-17.08.17:623][950]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.11-17.08.17:623][950]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.11-17.08.17:624][950]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.11-17.08.17:624][950]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.11-17.08.17:625][950]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.11-17.08.17:625][950]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.11-17.08.17:625][950]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.11-17.08.17:625][950]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.11-17.08.17:627][950]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.11-17.08.17:629][950]LogDerivedDataCache: Shutdown
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.11-17.08.17:629][950]LogXGEController: Cleaning working directory: C:/Users/Noah/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.11-17.08.17:629][950]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.11-17.08.17:630][950]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.11-17.08.17:631][950]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.11-17.08.17:631][950]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.11-17.08.17:631][950]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.11-17.08.17:631][950]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.11-17.08.17:631][950]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.11-17.08.17:631][950]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.11-17.08.17:632][950]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.11-17.08.17:632][950]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.11-17.08.17:632][950]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.11-17.08.17:641][950]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.11-17.08.17:641][950]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.11-17.08.17:641][950]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.11-17.08.17:641][950]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.11-17.08.17:641][950]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.11-17.08.17:641][950]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.11-17.08.17:642][950]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.11-17.08.17:642][950]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.11-17.08.17:643][950]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.11-17.08.17:643][950]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.11-17.08.17:669][950]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.11-17.08.17:669][950]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.11-17.08.17:669][950]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1F03B000-4DEB-20CF-7C5C-F79C7963A84C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=3e7dc73648b455a9f6b8049af81b7008%7C77fafe8689c24a7d99c2011ca348a895%7C005784e3-61c5-4d0e-93c1-c6a24c0daa43&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.11-17.08.17:689][950]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.11-17.08.17:690][950]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.11-17.08.17:691][950]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.11-17.08.17:692][950]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.11-17.08.17:692][950]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.11-17.08.17:693][950]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.11-17.08.17:695][950]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.11-17.08.17:696][950]LogD3D11RHI: Shutdown
+[2019.12.11-17.08.17:696][950]LogD3D11RHI: CleanupD3DDevice
+[2019.12.11-17.08.17:696][950]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.11-17.08.17:696][950]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.11-17.08.17:696][950]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.11-17.08.17:843][950]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.11-17.08.17:853][950]LogExit: Exiting.
+[2019.12.11-17.08.17:865][950]Log file closed, 12/11/19 18:08:17
