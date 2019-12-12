@@ -1,0 +1,1314 @@
+﻿Log file open, 12/12/19 09:11:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpaceRoguelike
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.128414
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.12.12-08.11.16:539][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.12.12-08.11.16:540][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.12-08.11.16:541][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:541][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:546][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-08.11.16:546][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-08.11.16:547][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-08.11.16:547][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-08.11.16:547][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.12-08.11.16:567][  0]LogHAL: Display: Platform has ~ 16 GB [17059344384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.12-08.11.16:567][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.12-08.11.16:567][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.12-08.11.16:567][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.12-08.11.16:568][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.12-08.11.16:569][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.12-08.11.16:569][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.12-08.11.16:569][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.12-08.11.16:575][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.12-08.11.16:575][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.12-08.11.16:575][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.12-08.11.16:575][  0]LogInit: Computer: DESKTOP-2J7LH9R
+[2019.12.12-08.11.16:575][  0]LogInit: User: Noah
+[2019.12.12-08.11.16:575][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.12-08.11.16:575][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.12-08.11.16:575][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.12-08.11.16:575][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.12-08.11.16:575][  0]LogMemory: Process Physical Memory: 101.56 MB used, 101.56 MB peak
+[2019.12.12-08.11.16:575][  0]LogMemory: Process Virtual Memory: 104.73 MB used, 104.73 MB peak
+[2019.12.12-08.11.16:575][  0]LogMemory: Physical Memory: 4645.00 MB used,  11624.05 MB free, 16269.06 MB total
+[2019.12.12-08.11.16:575][  0]LogMemory: Virtual Memory: 4672.62 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.12-08.11.16:583][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.12-08.11.16:664][  0]LogInit: Using OS detected language (fr-FR).
+[2019.12.12-08.11.16:664][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.12.12-08.11.16:666][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.12.12-08.11.16:666][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.12.12-08.11.16:666][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.12.12-08.11.16:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.12.12-08.11.16:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.12.12-08.11.16:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.12.12-08.11.16:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.12.12-08.11.16:667][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.12.12-08.11.16:694][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.12-08.11.16:830][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.12-08.11.16:830][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.12-08.11.18:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-08.11.18:826][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.12-08.11.19:578][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.12.12-08.11.19:578][  0]LogD3D11RHI:       2007/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.12-08.11.19:587][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.12.12-08.11.19:587][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.12-08.11.19:591][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.12-08.11.19:591][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.12-08.11.19:591][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.12-08.11.19:633][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.12-08.11.19:633][  0]LogD3D11RHI:     GPU DeviceId: 0x119a (for the marketing name, search the web for "GPU Device Id")
+[2019.12.12-08.11.19:633][  0]LogWindows: EnumDisplayDevices:
+[2019.12.12-08.11.19:633][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.12.12-08.11.19:634][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.12-08.11.19:634][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.12-08.11.19:635][  0]LogWindows:    3. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.12-08.11.19:636][  0]LogWindows:    4. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.12-08.11.19:636][  0]LogWindows:    5. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.12-08.11.19:637][  0]LogWindows:    6. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.12-08.11.19:637][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.12-08.11.19:637][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.12.12-08.11.19:637][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.12.12-08.11.19:637][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.12.12-08.11.19:637][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.12.12-08.11.19:697][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.12-08.11.19:719][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.12-08.11.20:428][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.12-08.11.20:441][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.12-08.11.20:457][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.12-08.11.20:470][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.12-08.11.20:484][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.12-08.11.20:497][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.12-08.11.20:510][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.12-08.11.20:523][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.12-08.11.20:531][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.12-08.11.20:572][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.12-08.11.20:574][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.12-08.11.20:600][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.12-08.11.20:600][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.12-08.11.20:619][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.12-08.11.20:619][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.12-08.11.20:628][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.12-08.11.20:638][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.12-08.11.20:647][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.12-08.11.20:660][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.12-08.11.20:695][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.12-08.11.20:696][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.12-08.11.20:696][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.12-08.11.20:713][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.12-08.11.20:806][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Intermediate/Shaders/WorkingDirectory/1720/).
+[2019.12.12-08.11.20:806][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Noah/AppData/Local/Temp/UnrealShaderWorkingDir/5F20855247A8F05327879E850518F80E/'.
+[2019.12.12-08.11.20:811][  0]LogXGEController: Cleaning working directory: C:/Users/Noah/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.12-08.11.20:811][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.12-08.11.20:811][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.12-08.11.20:811][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.12-08.11.21:561][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.12-08.11.22:599][  0]LogDerivedDataCache: Loaded boot cache 1.04s 73MB C:/Users/Noah/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-08.11.22:599][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Noah/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.12-08.11.22:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.12-08.11.22:599][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.12-08.11.22:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-08.11.22:599][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.12-08.11.22:654][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.12-08.11.22:654][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.12-08.11.22:654][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.12-08.11.22:655][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Noah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.12-08.11.22:655][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.12-08.11.22:655][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.12-08.11.22:679][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.12-08.11.22:682][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.12-08.11.22:683][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.12-08.11.22:780][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2019.12.12-08.11.23:081][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.12-08.11.23:272][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.12-08.11.23:272][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.12-08.11.23:272][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.12-08.11.23:272][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.12-08.11.23:272][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.12-08.11.23:285][  0]LogNetVersion: SpaceRoguelike 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 151157588)
+[2019.12.12-08.11.23:791][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.048203 seconds
+[2019.12.12-08.11.23:798][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.12-08.11.23:798][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.12-08.11.23:798][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.12-08.11.25:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.12-08.11.25:270][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.12-08.11.25:349][  0]SourceControl: Source control is disabled
+[2019.12.12-08.11.25:349][  0]SourceControl: Source control is disabled
+[2019.12.12-08.11.25:351][  0]SourceControl: Source control is disabled
+[2019.12.12-08.11.25:353][  0]SourceControl: Source control is disabled
+[2019.12.12-08.11.25:480][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.12-08.11.25:635][  0]LogOcInput: OculusInput pre-init called
+[2019.12.12-08.11.25:644][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.12-08.11.25:644][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.12-08.11.25:733][  0]LogEngine: Initializing Engine...
+[2019.12.12-08.11.25:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.12-08.11.25:735][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.12-08.11.25:988][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.12-08.11.26:014][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.12-08.11.26:030][  0]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.11.26:069][  0]LogInit: FAudioDevice initialized.
+[2019.12.12-08.11.26:069][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.12-08.11.26:353][  0]LogDerivedDataCache: Saved boot cache 0.28s 73MB C:/Users/Noah/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.12-08.11.26:359][  0]LogInit: Texture streaming: Enabled
+[2019.12.12-08.11.26:399][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.12-08.11.26:399][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.12-08.11.26:410][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.12-08.11.26:679][  0]LogInit: Transaction tracking system initialized
+[2019.12.12-08.11.26:740][  0]BlueprintLog: New page: Editor Load
+[2019.12.12-08.11.26:891][  0]LocalizationService: Localization service is disabled
+[2019.12.12-08.11.28:444][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.12-08.11.28:444][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.12-08.11.28:999][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/' took 0.02s
+[2019.12.12-08.11.28:999][  0]SourceControl: Source control is disabled
+[2019.12.12-08.11.28:999][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/Scene/Level-Tuto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.12-08.11.29:000][  0]LightingResults: New page: Lighting Build
+[2019.12.12-08.11.29:004][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.11.29:005][  0]MapCheck: New page: Map Check
+[2019.12.12-08.11.29:005][  0]LightingResults: New page: Lighting Build
+[2019.12.12-08.11.29:042][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.12.12-08.11.32:009][  0]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.11.32:163][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.12-08.11.32:212][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.12.12-08.11.32:212][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.12-08.11.32:212][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,18ms to complete.
+[2019.12.12-08.11.32:212][  0]LogFileHelpers: Loading map 'Level-Tuto' took 3.213
+[2019.12.12-08.11.32:338][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.11.32:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.11.32:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.11.32:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.11.32:378][  0]LogCollectionManager: Loaded 0 collections in 0.005130 seconds
+[2019.12.12-08.11.32:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Collections/' took 0.00s
+[2019.12.12-08.11.32:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Developers/Noah/Collections/' took 0.00s
+[2019.12.12-08.11.32:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Collections/' took 0.00s
+[2019.12.12-08.11.32:389][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.12-08.11.32:398][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2863 classes and 680 folders.
+[2019.12.12-08.11.32:410][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.12-08.11.32:558][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.12-08.11.32:567][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.12-08.11.32:591][  0]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.12-08.11.32:593][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.12-08.11.32:600][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.12-08.11.32:661][  0]LogRenderer: Reallocating scene render targets to support 1008x456 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-08.11.32:704][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-08.11.32:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.12-08.11.32:770][  0]LogLoad: (Engine Initialization) Total time: 25.92 seconds
+[2019.12.12-08.11.32:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.12-08.11.32:854][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.12-08.11.32:909][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.12-08.11.32:947][  1]LogAssetRegistry: Asset discovery search completed in 10.1680 seconds
+[2019.12.12-08.11.32:951][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.12-08.11.32:951][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.12.12-08.11.51:991][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.12.32:865][304]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={1F03B000-4DEB-20CF-7C5C-F79C7963A84C}
+[2019.12.12-08.20.28:940][962]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Noah\Pictures\PixelArt_Placeolder\Placeolder_Gun.png)
+[2019.12.12-08.20.29:029][962]LogTexture: Display: Building textures: Placeolder_Gun (BGRA8, 959X614)
+[2019.12.12-08.20.29:120][962]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Noah\Pictures\PixelArt_Placeolder\Placeolder_ArmPlayer.png)
+[2019.12.12-08.20.29:122][962]LogTexture: Display: Building textures: Placeolder_ArmPlayer (BGRA8, 12X33)
+[2019.12.12-08.20.29:147][962]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-08.20.33:883][276]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Art/Placeolder_ArmPlayer.Placeolder_ArmPlayer
+[2019.12.12-08.20.33:978][276]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.12-08.20.36:579][556]LogTexture: Display: Building textures: Placeolder_ArmPlayer (BGRA8, 12X33)
+[2019.12.12-08.20.41:806][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Placeolder_ArmPlayer" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/Placeolder_ArmPlayer.uasset" SILENT=true
+[2019.12.12-08.20.41:809][146]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_ArmPlayer7786334D47DD4D0AE7773EB757BAD462.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/Placeolder_ArmPlayer.uasset'
+[2019.12.12-08.20.48:301][880]LogSlate: Window 'Placeolder_ArmPlayer' being destroyed
+[2019.12.12-08.20.49:959][ 69]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Art/Placeolder_Gun.Placeolder_Gun
+[2019.12.12-08.20.52:764][373]LogTexture: Display: Building textures: Placeolder_Gun (BGRA8, 959X614)
+[2019.12.12-08.20.58:436][ 19]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/Placeolder_Gun" FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/Placeolder_Gun.uasset" SILENT=true
+[2019.12.12-08.20.58:464][ 19]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_GunD16DCB3442917ECE34FC1CACF7DB9A61.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/Placeolder_Gun.uasset'
+[2019.12.12-08.21.00:929][298]LogSlate: Window 'Placeolder_Gun' being destroyed
+[2019.12.12-08.21.18:602][296]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.12-08.21.35:903][335]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.12-08.22.01:797][386]LogSlate: Window 'Extract sprites' being destroyed
+[2019.12.12-08.22.18:679][383]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/PlaceolderSprite_ArmPlayerF70D31DD418A99B30A4C3DB2B2304D4F.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/PlaceolderSprite_ArmPlayer.uasset'
+[2019.12.12-08.22.18:824][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.12.12-08.22.18:854][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.12.12-08.22.18:882][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.12-08.22.21:905][731]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Art/PlaceolderSprite_ArmPlayer.PlaceolderSprite_ArmPlayer
+[2019.12.12-08.22.22:074][731]LogRenderer: Reallocating scene render targets to support 1272x736 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-08.23.13:344][948]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/PlaceolderSprite_ArmPlayer2C7B39474A7B716339818194BCA60BDF.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/PlaceolderSprite_ArmPlayer.uasset'
+[2019.12.12-08.23.20:895][761]LogSlate: Window 'PlaceolderSprite_ArmPlayer' being destroyed
+[2019.12.12-08.23.20:935][761]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.23.33:956][305]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_0.Placeolder_Gun_PlaceolderSprite_Gun_0
+[2019.12.12-08.24.08:958][785]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_50C1C6894BC48CEFF954B9A58F58F034.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Art/Placeolder_Gun_PlaceolderSprite_Gun_0.uasset'
+[2019.12.12-08.24.16:722][494]LogSlate: Window 'Placeolder_Gun_PlaceolderSprite_Gun_0' being destroyed
+[2019.12.12-08.24.16:762][494]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.24.23:572][240]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2019.12.12-08.24.23:917][240]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.12-08.24.25:794][241]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.12-08.24.33:404][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.12-08.24.42:914][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.24.59:862][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.24.59:936][907]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.25.00:326][907]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2019.12.12-08.25.01:270][991]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.25.01:304][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.01:304][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.25.01:304][991]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:25:01)
+[2019.12.12-08.25.01:306][991]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.12-08.25.01:311][991]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.25.01:328][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017085s)
+[2019.12.12-08.25.01:329][991]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.25.01:329][991]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2019.12.12-08.25.01:330][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018762s)
+[2019.12.12-08.25.01:379][991]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2019.12.12-08.25.01:393][991]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.25.01:433][991]LogInit: FAudioDevice initialized.
+[2019.12.12-08.25.01:451][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.25.01:453][991]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.25.01:507][991]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.25.01
+[2019.12.12-08.25.01:530][991]LogWorld: Bringing up level for play took: 0.075942
+[2019.12.12-08.25.01:531][991]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.12-08.25.01:533][991]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.25.01:547][991]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.12-08.25.01:557][991]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,503
+[2019.12.12-08.25.01:557][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.01:586][992]LogRenderer: Reallocating scene render targets to support 1280x736 Format 10 NumSamples 1 (Frame:1).
+[2019.12.12-08.25.05:366][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.05:367][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.25.05:367][300]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.25.05:397][300]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.25.05:410][300]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.25.05:435][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.25.05:435][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.05:533][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2019.12.12-08.25.05:601][301]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.12-08.25.06:486][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.25.16:493][125]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.25.16:807][125]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.12.12-08.25.17:460][152]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.25.17:493][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.17:493][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.25.17:493][152]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:25:17)
+[2019.12.12-08.25.17:493][152]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.25.17:508][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014945s)
+[2019.12.12-08.25.17:510][152]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.25.17:510][152]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2019.12.12-08.25.17:510][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.016425s)
+[2019.12.12-08.25.17:557][152]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2019.12.12-08.25.17:568][152]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.25.17:596][152]LogInit: FAudioDevice initialized.
+[2019.12.12-08.25.17:609][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.25.17:609][152]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.25.17:650][152]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.25.17
+[2019.12.12-08.25.17:668][152]LogWorld: Bringing up level for play took: 0.057640
+[2019.12.12-08.25.17:668][152]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.12-08.25.17:670][152]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.25.17:683][152]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,629
+[2019.12.12-08.25.17:683][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.32:550][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.32:551][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.25.32:551][321]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.25.32:573][321]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.25.32:579][321]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.25.32:627][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.25.32:627][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.25.32:685][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.12-08.25.33:017][322]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.12-08.25.57:000][557]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.25.57:435][557]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2019.12.12-08.26.00:892][821]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.26.00:926][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.26.00:926][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.26.00:927][821]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:26:00)
+[2019.12.12-08.26.00:927][821]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.26.00:944][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017024s)
+[2019.12.12-08.26.00:945][821]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.26.00:945][821]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2019.12.12-08.26.00:945][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018433s)
+[2019.12.12-08.26.01:001][821]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2019.12.12-08.26.01:014][821]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.26.01:049][821]LogInit: FAudioDevice initialized.
+[2019.12.12-08.26.01:065][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.26.01:066][821]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.26.01:115][821]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.26.01
+[2019.12.12-08.26.01:137][821]LogWorld: Bringing up level for play took: 0.070312
+[2019.12.12-08.26.01:138][821]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.12-08.26.01:139][821]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.26.01:154][821]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,101
+[2019.12.12-08.26.01:154][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.26.05:314][ 92]LogScript: Warning: Attempted to access BP_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_3 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.05:315][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_3 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_3 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.05:315][ 92]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.05:315][ 92]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.05:800][123]LogScript: Warning: Attempted to access BP_Projectile_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_4 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.05:801][123]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_4 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.05:801][123]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.05:801][123]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.06:284][153]LogScript: Warning: Attempted to access BP_Projectile_C_5 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_5 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.06:285][153]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_5 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_5 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.06:285][153]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.06:285][153]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.06:689][180]LogScript: Warning: Attempted to access BP_Projectile_C_6 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_6 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.06:690][180]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_6 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_6 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.06:690][180]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.06:690][180]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.07:092][207]LogScript: Warning: Attempted to access BP_Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_7 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.07:092][207]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_7 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_7 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.07:092][207]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.07:092][207]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.07:509][233]LogScript: Warning: Attempted to access BP_Projectile_C_8 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_8 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.07:509][233]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_8 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_8 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.07:509][233]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.07:509][233]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.07:918][260]LogScript: Warning: Attempted to access BP_Projectile_C_9 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_9 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.07:918][260]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_9 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_9 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.07:918][260]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.07:919][260]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.08:425][293]LogScript: Warning: Attempted to access BP_Projectile_C_10 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_10 is pending kill
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:0656
+[2019.12.12-08.26.08:425][293]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Projectile_C_10 via property CallFunc_FinishSpawningActor_ReturnValue, but BP_Projectile_C_10 is pending kill". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.08:426][293]LogScript: Warning: Accessed None
+	BP_Player_C /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto:PersistentLevel.BP_Player_2
+	Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player:066B
+[2019.12.12-08.26.08:426][293]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  BP_Player Function:  Execute Ubergraph BP Player Graph:  EventGraph Node:  Set Collision Enabled
+[2019.12.12-08.26.15:422][757]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.26.15:422][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.26.15:422][757]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.26.15:453][757]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.26.15:462][757]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.26.15:523][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.26.15:523][757]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.26.15:592][757]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2019.12.12-08.26.16:145][758]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.12-08.26.17:835][873]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-08.26.17:845][873]LogSlate: Window 'Message Log' being destroyed
+[2019.12.12-08.26.22:038][321]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-08.26.28:000][976]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.12-08.26.46:748][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.26.46:831][ 68]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.26.47:340][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2019.12.12-08.27.02:020][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.27.02:078][231]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.27.02:520][231]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2019.12.12-08.27.03:316][309]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.27.03:351][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.03:351][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.27.03:351][309]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:27:03)
+[2019.12.12-08.27.03:352][309]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.27.03:369][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017002s)
+[2019.12.12-08.27.03:370][309]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.27.03:370][309]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2019.12.12-08.27.03:370][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018530s)
+[2019.12.12-08.27.03:417][309]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2019.12.12-08.27.03:431][309]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.27.03:471][309]LogInit: FAudioDevice initialized.
+[2019.12.12-08.27.03:490][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.27.03:490][309]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.27.03:541][309]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.27.03
+[2019.12.12-08.27.03:564][309]LogWorld: Bringing up level for play took: 0.072308
+[2019.12.12-08.27.03:564][309]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.12-08.27.03:566][309]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.27.03:577][309]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,523
+[2019.12.12-08.27.03:577][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.13:680][278]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.13:681][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.27.13:681][278]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.27.13:711][278]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.27.13:724][278]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.27.13:753][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.27.13:753][278]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.13:815][278]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.12-08.27.13:870][279]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.12-08.27.16:744][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.27.38:204][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.27.38:287][ 25]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.27.38:711][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.12.12-08.27.39:463][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.27.39:496][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.39:496][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.27.39:497][ 97]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:27:39)
+[2019.12.12-08.27.39:497][ 97]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.27.39:514][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016960s)
+[2019.12.12-08.27.39:515][ 97]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.27.39:515][ 97]LogPlayLevel: PIE: World Init took: (0.001288s)
+[2019.12.12-08.27.39:516][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018435s)
+[2019.12.12-08.27.39:563][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2019.12.12-08.27.39:576][ 97]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.27.39:611][ 97]LogInit: FAudioDevice initialized.
+[2019.12.12-08.27.39:632][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.27.39:632][ 97]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.27.39:682][ 97]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.27.39
+[2019.12.12-08.27.39:705][ 97]LogWorld: Bringing up level for play took: 0.072075
+[2019.12.12-08.27.39:705][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.12-08.27.39:707][ 97]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.27.39:717][ 97]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,664
+[2019.12.12-08.27.39:718][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.44:148][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.44:149][510]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.27.44:149][510]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.27.44:178][510]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.27.44:186][510]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.27.44:214][510]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.27.44:214][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.44:287][510]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2019.12.12-08.27.44:358][511]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.12-08.27.51:696][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.27.51:779][315]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.27.52:282][315]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.12.12-08.27.53:026][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.27.53:060][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.53:060][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.27.53:060][384]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:27:53)
+[2019.12.12-08.27.53:061][384]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.27.53:078][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017100s)
+[2019.12.12-08.27.53:079][384]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.27.53:079][384]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2019.12.12-08.27.53:079][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018481s)
+[2019.12.12-08.27.53:131][384]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2019.12.12-08.27.53:145][384]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.27.53:180][384]LogInit: FAudioDevice initialized.
+[2019.12.12-08.27.53:198][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.27.53:198][384]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.27.53:247][384]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.27.53
+[2019.12.12-08.27.53:275][384]LogWorld: Bringing up level for play took: 0.075155
+[2019.12.12-08.27.53:275][384]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.12-08.27.53:277][384]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.27.53:287][384]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,233
+[2019.12.12-08.27.53:287][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.55:839][630]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.55:840][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.27.55:840][630]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.27.55:870][630]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.27.55:879][630]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.27.55:903][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.27.55:903][630]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.27.55:969][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2019.12.12-08.27.56:039][631]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.12-08.28.08:123][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.28.33:393][537]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.28.33:783][537]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.12.12-08.28.34:560][577]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.28.34:585][577]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.28.34:585][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.28.34:585][577]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:28:34)
+[2019.12.12-08.28.34:586][577]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.28.34:599][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013400s)
+[2019.12.12-08.28.34:600][577]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.28.34:600][577]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2019.12.12-08.28.34:600][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014612s)
+[2019.12.12-08.28.34:643][577]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.12.12-08.28.34:653][577]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.28.34:681][577]LogInit: FAudioDevice initialized.
+[2019.12.12-08.28.34:694][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.28.34:694][577]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.28.34:733][577]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.28.34
+[2019.12.12-08.28.34:751][577]LogWorld: Bringing up level for play took: 0.055430
+[2019.12.12-08.28.34:751][577]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.12-08.28.34:753][577]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.28.34:765][577]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,288
+[2019.12.12-08.28.34:766][577]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.28.37:336][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.28.37:336][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.28.37:336][784]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.28.37:358][784]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.28.37:364][784]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.28.37:411][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.28.37:412][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.28.37:467][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2019.12.12-08.28.37:814][785]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.12-08.29.27:680][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.29.27:736][681]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.29.28:237][681]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.12.12-08.29.39:967][649]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.29.40:384][649]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2019.12.12-08.29.40:880][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.29.40:916][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.29.40:917][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.29.40:917][650]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:29:40)
+[2019.12.12-08.29.40:917][650]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.29.40:934][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016930s)
+[2019.12.12-08.29.40:935][650]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.29.40:936][650]LogPlayLevel: PIE: World Init took: (0.001354s)
+[2019.12.12-08.29.40:936][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018470s)
+[2019.12.12-08.29.40:993][650]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2019.12.12-08.29.41:005][650]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.29.41:042][650]LogInit: FAudioDevice initialized.
+[2019.12.12-08.29.41:060][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.29.41:061][650]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.29.41:111][650]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.29.41
+[2019.12.12-08.29.41:134][650]LogWorld: Bringing up level for play took: 0.072504
+[2019.12.12-08.29.41:134][650]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.12-08.29.41:136][650]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.29.41:152][650]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,098
+[2019.12.12-08.29.41:152][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.29.50:311][271]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.29.50:311][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.29.50:311][271]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.29.50:341][271]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.29.50:352][271]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.29.50:409][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.29.50:409][271]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.29.50:477][271]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.12-08.29.50:914][272]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.12-08.30.12:586][315]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.30.13:000][315]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2019.12.12-08.30.13:951][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.30.13:986][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.30.13:986][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.30.13:986][352]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:30:13)
+[2019.12.12-08.30.13:986][352]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.30.14:004][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017924s)
+[2019.12.12-08.30.14:006][352]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.30.14:006][352]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2019.12.12-08.30.14:006][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.019317s)
+[2019.12.12-08.30.14:059][352]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2019.12.12-08.30.14:071][352]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.30.14:108][352]LogInit: FAudioDevice initialized.
+[2019.12.12-08.30.14:125][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.30.14:126][352]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.30.14:178][352]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.30.14
+[2019.12.12-08.30.14:201][352]LogWorld: Bringing up level for play took: 0.073701
+[2019.12.12-08.30.14:201][352]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.12-08.30.14:203][352]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.30.14:218][352]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 1,165
+[2019.12.12-08.30.14:219][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.30.21:008][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.30.21:008][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.30.21:008][805]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.30.21:038][805]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.30.21:048][805]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.30.21:107][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.30.21:107][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.30.21:176][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.12.12-08.30.21:628][806]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.12-08.32.09:896][374]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.32.10:225][374]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2019.12.12-08.32.15:442][919]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.32.15:469][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.32.15:469][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.32.15:469][919]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:32:15)
+[2019.12.12-08.32.15:470][919]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.32.15:483][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012837s)
+[2019.12.12-08.32.15:484][919]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.32.15:484][919]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2019.12.12-08.32.15:484][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014158s)
+[2019.12.12-08.32.15:526][919]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2019.12.12-08.32.15:537][919]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.32.15:566][919]LogInit: FAudioDevice initialized.
+[2019.12.12-08.32.15:580][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.32.15:580][919]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.32.15:621][919]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.32.15
+[2019.12.12-08.32.15:638][919]LogWorld: Bringing up level for play took: 0.056824
+[2019.12.12-08.32.15:639][919]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.12-08.32.15:640][919]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.32.15:648][919]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,594
+[2019.12.12-08.32.15:648][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.32.32:739][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.32.32:740][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.32.32:740][763]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.32.32:770][763]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.32.32:777][763]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.32.32:838][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.32.32:839][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.32.32:907][763]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2019.12.12-08.32.32:936][764]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.12-08.32.42:701][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.33.00:397][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.33.00:465][782]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.33.00:515][782]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.12.12-08.33.00:515][782]LogBlueprint: Error: [Compiler BP_Player] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2019.12.12-08.33.00:948][782]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2019.12.12-08.33.19:334][276]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.33.19:755][276]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2019.12.12-08.33.22:718][483]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.33.22:754][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.33.22:754][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.33.22:754][483]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:33:22)
+[2019.12.12-08.33.22:754][483]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.33.22:771][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017027s)
+[2019.12.12-08.33.22:773][483]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.33.22:773][483]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2019.12.12-08.33.22:773][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018634s)
+[2019.12.12-08.33.22:830][483]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.12.12-08.33.22:841][483]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.33.22:879][483]LogInit: FAudioDevice initialized.
+[2019.12.12-08.33.22:895][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.33.22:895][483]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.33.22:949][483]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.33.22
+[2019.12.12-08.33.22:973][483]LogWorld: Bringing up level for play took: 0.076088
+[2019.12.12-08.33.22:973][483]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.12-08.33.22:975][483]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.33.22:990][483]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,064
+[2019.12.12-08.33.22:991][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.33.32:042][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.33.32:043][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.33.32:043][ 89]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.33.32:073][ 89]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.33.32:084][ 89]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.33.32:139][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.33.32:139][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.33.32:211][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2019.12.12-08.33.32:649][ 90]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.12-08.33.38:890][638]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.33.39:305][638]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2019.12.12-08.34.27:962][915]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.34.28:295][915]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2019.12.12-08.34.28:896][954]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.34.28:923][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.28:923][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.34.28:923][954]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:34:28)
+[2019.12.12-08.34.28:923][954]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.34.28:936][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012921s)
+[2019.12.12-08.34.28:937][954]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.34.28:937][954]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.12.12-08.34.28:937][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.014024s)
+[2019.12.12-08.34.28:983][954]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2019.12.12-08.34.28:992][954]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.34.29:019][954]LogInit: FAudioDevice initialized.
+[2019.12.12-08.34.29:034][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.34.29:034][954]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.34.29:076][954]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.34.29
+[2019.12.12-08.34.29:094][954]LogWorld: Bringing up level for play took: 0.059191
+[2019.12.12-08.34.29:095][954]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.12-08.34.29:096][954]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.34.29:109][954]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,056
+[2019.12.12-08.34.29:110][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.32:470][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.32:470][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.34.32:470][202]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.34.32:500][202]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.34.32:512][202]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.34.32:566][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.34.32:567][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.32:637][202]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2019.12.12-08.34.32:902][203]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.12-08.34.38:251][711]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.34.38:664][711]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2019.12.12-08.34.39:166][730]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.34.39:199][730]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.39:199][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.34.39:199][730]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:34:39)
+[2019.12.12-08.34.39:200][730]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.34.39:217][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017054s)
+[2019.12.12-08.34.39:218][730]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.34.39:218][730]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2019.12.12-08.34.39:218][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018646s)
+[2019.12.12-08.34.39:279][730]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2019.12.12-08.34.39:290][730]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.34.39:326][730]LogInit: FAudioDevice initialized.
+[2019.12.12-08.34.39:344][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.34.39:344][730]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.34.39:395][730]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.34.39
+[2019.12.12-08.34.39:418][730]LogWorld: Bringing up level for play took: 0.072735
+[2019.12.12-08.34.39:418][730]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.12-08.34.39:420][730]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.34.39:436][730]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,382
+[2019.12.12-08.34.39:437][730]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.46:024][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.46:024][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.34.46:025][217]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.34.46:055][217]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.34.46:066][217]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.34.46:124][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.34.46:125][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.34.46:198][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2019.12.12-08.34.46:456][218]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.12-08.35.40:611][399]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.35.41:034][399]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2019.12.12-08.35.41:693][438]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.35.41:728][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.35.41:729][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.35.41:729][438]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:35:41)
+[2019.12.12-08.35.41:729][438]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.35.41:748][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018765s)
+[2019.12.12-08.35.41:749][438]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.35.41:750][438]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2019.12.12-08.35.41:750][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.020187s)
+[2019.12.12-08.35.41:809][438]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2019.12.12-08.35.41:820][438]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.35.41:857][438]LogInit: FAudioDevice initialized.
+[2019.12.12-08.35.42:067][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.35.42:067][438]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.35.42:118][438]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.35.42
+[2019.12.12-08.35.42:145][438]LogWorld: Bringing up level for play took: 0.075872
+[2019.12.12-08.35.42:145][438]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.12-08.35.42:147][438]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.35.42:162][438]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 1,108
+[2019.12.12-08.35.42:162][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.35.47:535][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.35.47:535][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.35.47:535][858]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.35.47:565][858]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.35.47:576][858]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.35.47:633][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.35.47:633][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.35.47:708][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.12.12-08.35.47:923][859]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.12-08.36.09:514][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.36.16:724][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.36.16:814][ 67]BlueprintLog: New page: Compile BP_Player
+[2019.12.12-08.36.17:270][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2019.12.12-08.36.18:399][175]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.12-08.36.18:433][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.36.18:433][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.12-08.36.18:433][175]PIE: New page: PIE session: Level-Tuto (12 déc. 2019 10:36:18)
+[2019.12.12-08.36.18:434][175]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.36.18:451][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017203s)
+[2019.12.12-08.36.18:452][175]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.12-08.36.18:452][175]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2019.12.12-08.36.18:453][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018776s)
+[2019.12.12-08.36.18:507][175]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2019.12.12-08.36.18:519][175]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.12-08.36.18:555][175]LogInit: FAudioDevice initialized.
+[2019.12.12-08.36.18:573][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.36.18:573][175]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.12-08.36.18:628][175]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.12-09.36.18
+[2019.12.12-08.36.18:654][175]LogWorld: Bringing up level for play took: 0.078866
+[2019.12.12-08.36.18:654][175]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.12-08.36.18:656][175]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.12-08.36.18:665][175]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,388
+[2019.12.12-08.36.18:666][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.36.29:466][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.36.29:466][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.12-08.36.29:466][182]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.12-08.36.29:497][182]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.12-08.36.29:505][182]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.36.29:530][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.12-08.36.29:530][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.12-08.36.29:597][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2019.12.12-08.36.29:667][183]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.12-08.37.04:845][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2019.12.12-08.37.05:320][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Level-Tuto_Auto18E4B1FBB416ABDC73B9F539C9783E527.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Maps/Scene/Level-Tuto_Auto1.umap'
+[2019.12.12-08.37.05:395][544]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Scene/Level-Tuto' took 0.593
+[2019.12.12-08.37.05:396][544]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.593
+[2019.12.12-08.37.05:397][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2019.12.12-08.37.05:397][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2019.12.12-08.37.05:697][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/BP_Player_Auto1D087600C448C79F0203EF6B547192A10.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2019.12.12-08.37.05:700][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_1] ([1] browsable assets)...
+[2019.12.12-08.37.05:833][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_1.Placeolder_Gun_PlaceolderSprite_Gun_1]
+[2019.12.12-08.37.05:833][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_1]
+[2019.12.12-08.37.05:841][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_EE9EFBF1451532435A0886B2559467B7.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_1_Auto1.uasset'
+[2019.12.12-08.37.05:844][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_2] ([1] browsable assets)...
+[2019.12.12-08.37.05:851][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_2.Placeolder_Gun_PlaceolderSprite_Gun_2]
+[2019.12.12-08.37.05:851][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_2]
+[2019.12.12-08.37.05:857][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_E7693D894525C9CAE56F15B50085C9D0.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_2_Auto1.uasset'
+[2019.12.12-08.37.05:860][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_3] ([1] browsable assets)...
+[2019.12.12-08.37.05:866][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_3.Placeolder_Gun_PlaceolderSprite_Gun_3]
+[2019.12.12-08.37.05:866][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_3]
+[2019.12.12-08.37.05:872][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_BD52B64B47AD05C93DF6308770F7C5FE.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_3_Auto1.uasset'
+[2019.12.12-08.37.05:875][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_4] ([1] browsable assets)...
+[2019.12.12-08.37.05:882][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_4.Placeolder_Gun_PlaceolderSprite_Gun_4]
+[2019.12.12-08.37.05:882][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_4]
+[2019.12.12-08.37.05:888][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_796B4A8A481555950ED523B4E3080EC9.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_4_Auto1.uasset'
+[2019.12.12-08.37.05:892][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_5] ([1] browsable assets)...
+[2019.12.12-08.37.05:899][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_5.Placeolder_Gun_PlaceolderSprite_Gun_5]
+[2019.12.12-08.37.05:899][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_5]
+[2019.12.12-08.37.05:906][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_0879F88D492DDCC516A92F9CECDAEC56.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_5_Auto1.uasset'
+[2019.12.12-08.37.05:909][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_6] ([1] browsable assets)...
+[2019.12.12-08.37.05:915][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_6.Placeolder_Gun_PlaceolderSprite_Gun_6]
+[2019.12.12-08.37.05:915][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_6]
+[2019.12.12-08.37.05:921][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_4590265B44D7E683EA8D9F83A7C88833.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_6_Auto1.uasset'
+[2019.12.12-08.37.05:924][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_7] ([1] browsable assets)...
+[2019.12.12-08.37.05:931][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_7.Placeolder_Gun_PlaceolderSprite_Gun_7]
+[2019.12.12-08.37.05:931][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_7]
+[2019.12.12-08.37.05:938][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_6FF716424B35F1434357809520E44578.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_7_Auto1.uasset'
+[2019.12.12-08.37.05:940][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_8] ([1] browsable assets)...
+[2019.12.12-08.37.05:947][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_8.Placeolder_Gun_PlaceolderSprite_Gun_8]
+[2019.12.12-08.37.05:947][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_8]
+[2019.12.12-08.37.05:954][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_18D4BF0940B558DA791C4F856845B365.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_8_Auto1.uasset'
+[2019.12.12-08.37.05:957][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_9] ([1] browsable assets)...
+[2019.12.12-08.37.05:964][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_9.Placeolder_Gun_PlaceolderSprite_Gun_9]
+[2019.12.12-08.37.05:964][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_9]
+[2019.12.12-08.37.05:971][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_3927CDE64CBD4E2DF91C8DBC8BD63E0A.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_9_Auto1.uasset'
+[2019.12.12-08.37.05:974][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_10] ([1] browsable assets)...
+[2019.12.12-08.37.05:981][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_10.Placeolder_Gun_PlaceolderSprite_Gun_10]
+[2019.12.12-08.37.05:981][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_10]
+[2019.12.12-08.37.05:987][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_719154CC4F4799F5A8E8959B3D1FE07E.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_10_Auto1.uasset'
+[2019.12.12-08.37.05:990][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_11] ([1] browsable assets)...
+[2019.12.12-08.37.05:997][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_11.Placeolder_Gun_PlaceolderSprite_Gun_11]
+[2019.12.12-08.37.05:997][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_11]
+[2019.12.12-08.37.06:004][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_A74CECF24E4D08EB26FB7E845A3B6856.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_11_Auto1.uasset'
+[2019.12.12-08.37.06:006][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_12] ([1] browsable assets)...
+[2019.12.12-08.37.06:013][544]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_12.Placeolder_Gun_PlaceolderSprite_Gun_12]
+[2019.12.12-08.37.06:013][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_12]
+[2019.12.12-08.37.06:020][544]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Placeolder_Gun_PlaceolderSprite_B283724E467392AB53FDA0B8E83C52A9.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Art/Placeolder_Gun_PlaceolderSprite_Gun_12_Auto1.uasset'
+[2019.12.12-08.37.06:022][544]LogFileHelpers: Auto-saving content packages took 0.626
+[2019.12.12-08.41.53:085][518]LogEditorFactories: Performing atomic reimport of [C:/Users/Noah/Pictures/PixelArt_Placeolder/Placeolder_ArmPlayer.png]
+[2019.12.12-08.41.53:086][518]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Noah/Pictures/PixelArt_Placeolder/Placeolder_ArmPlayer.png)
+[2019.12.12-08.41.53:088][518]LogTexture: Display: Building textures: Placeolder_ArmPlayer (BGRA8, 14X33)
+[2019.12.12-08.41.53:089][518]LogEditorFactories: -- imported successfully
+[2019.12.12-08.41.55:241][758]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Art/Placeolder_ArmPlayer.Placeolder_ArmPlayer
+[2019.12.12-08.41.57:296][946]LogSlate: Window 'Placeolder_ArmPlayer' being destroyed
+[2019.12.12-08.41.58:531][ 79]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Art/PlaceolderSprite_ArmPlayer.PlaceolderSprite_ArmPlayer
+[2019.12.12-08.42.17:836][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.12-08.42.17:915][895]LogSlate: Window 'PlaceolderSprite_ArmPlayer' being destroyed
+[2019.12.12-08.42.17:957][895]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.12-08.42.21:866][324]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2019.12.12-08.42.23:309][324]LogSlate: Window 'Delete Assets' being destroyed
