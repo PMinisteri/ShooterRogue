@@ -1,0 +1,967 @@
+﻿Log file open, 12/19/19 13:33:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SpaceRoguelike
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.102196
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.12.19-12.33.22:414][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.19-12.33.22:415][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.19-12.33.22:416][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:416][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:420][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.19-12.33.22:420][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.19-12.33.22:421][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.19-12.33.22:422][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.19-12.33.22:422][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.19-12.33.22:425][  0]LogHAL: Display: Platform has ~ 16 GB [17059344384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.19-12.33.22:425][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.19-12.33.22:426][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.19-12.33.22:426][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Scalability.ini]
+[2019.12.19-12.33.22:427][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.19-12.33.22:427][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.19-12.33.22:427][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Config/Windows/Engine.ini]
+[2019.12.19-12.33.22:427][  0]LogInit: Computer: DESKTOP-2J7LH9R
+[2019.12.19-12.33.22:427][  0]LogInit: User: Noah
+[2019.12.19-12.33.22:427][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.19-12.33.22:427][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.19-12.33.22:427][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.19-12.33.22:427][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.19-12.33.22:427][  0]LogMemory: Process Physical Memory: 102.30 MB used, 102.30 MB peak
+[2019.12.19-12.33.22:427][  0]LogMemory: Process Virtual Memory: 98.94 MB used, 98.94 MB peak
+[2019.12.19-12.33.22:427][  0]LogMemory: Physical Memory: 6047.16 MB used,  10221.90 MB free, 16269.06 MB total
+[2019.12.19-12.33.22:427][  0]LogMemory: Virtual Memory: 4667.05 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.12.19-12.33.22:431][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.19-12.33.22:477][  0]LogInit: Using OS detected language (fr-FR).
+[2019.12.19-12.33.22:477][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.12.19-12.33.22:479][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.12.19-12.33.22:479][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.12.19-12.33.22:480][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.12.19-12.33.22:480][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.12.19-12.33.22:480][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.12.19-12.33.22:480][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.12.19-12.33.22:480][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.12.19-12.33.22:481][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.12.19-12.33.22:482][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.19-12.33.22:528][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.19-12.33.22:528][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.19-12.33.22:816][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.19-12.33.22:816][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.19-12.33.23:551][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2019.12.19-12.33.23:551][  0]LogD3D11RHI:       2007/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.19-12.33.23:558][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.12.19-12.33.23:558][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.19-12.33.23:561][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.19-12.33.23:561][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.19-12.33.23:561][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.19-12.33.23:581][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.19-12.33.23:581][  0]LogD3D11RHI:     GPU DeviceId: 0x119a (for the marketing name, search the web for "GPU Device Id")
+[2019.12.19-12.33.23:581][  0]LogWindows: EnumDisplayDevices:
+[2019.12.19-12.33.23:581][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.12.19-12.33.23:582][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.19-12.33.23:582][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.12.19-12.33.23:583][  0]LogWindows:    3. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.19-12.33.23:584][  0]LogWindows:    4. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.19-12.33.23:584][  0]LogWindows:    5. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.19-12.33.23:585][  0]LogWindows:    6. 'NVIDIA GeForce GTX 860M' (P:0 D:0)
+[2019.12.19-12.33.23:585][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.19-12.33.23:585][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2019.12.19-12.33.23:585][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.12.19-12.33.23:585][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.12.19-12.33.23:585][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.12.19-12.33.23:641][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.19-12.33.23:661][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.12.19-12.33.24:094][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.19-12.33.24:107][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.19-12.33.24:121][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.19-12.33.24:134][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.19-12.33.24:149][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.19-12.33.24:162][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.19-12.33.24:175][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.19-12.33.24:189][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.19-12.33.24:196][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.19-12.33.24:236][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.19-12.33.24:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.19-12.33.24:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.19-12.33.24:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.19-12.33.24:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.19-12.33.24:237][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.19-12.33.24:239][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.19-12.33.24:265][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.19-12.33.24:265][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.19-12.33.24:284][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.19-12.33.24:284][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.19-12.33.24:294][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.19-12.33.24:303][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.19-12.33.24:314][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.19-12.33.24:325][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.19-12.33.24:358][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.19-12.33.24:358][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.19-12.33.24:358][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.19-12.33.24:373][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.19-12.33.24:463][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Intermediate/Shaders/WorkingDirectory/12788/).
+[2019.12.19-12.33.24:463][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Noah/AppData/Local/Temp/UnrealShaderWorkingDir/5537E56F48B5A6DDE76C429E11931BB8/'.
+[2019.12.19-12.33.24:468][  0]LogXGEController: Cleaning working directory: C:/Users/Noah/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.19-12.33.24:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.19-12.33.24:468][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.19-12.33.24:468][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.19-12.33.25:216][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.19-12.33.25:272][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/Noah/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.19-12.33.25:272][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Noah/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.19-12.33.25:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.19-12.33.25:272][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.19-12.33.25:272][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.19-12.33.25:272][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.19-12.33.25:285][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.19-12.33.25:285][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.19-12.33.25:285][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.19-12.33.25:287][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Noah/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.19-12.33.25:287][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.19-12.33.25:287][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.19-12.33.25:311][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.19-12.33.25:314][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.19-12.33.25:315][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.19-12.33.25:405][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2019.12.19-12.33.25:712][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.19-12.33.25:894][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.19-12.33.25:894][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.19-12.33.25:894][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.19-12.33.25:894][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.19-12.33.25:894][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.19-12.33.25:905][  0]LogNetVersion: SpaceRoguelike 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 151157588)
+[2019.12.19-12.33.26:395][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.052893 seconds
+[2019.12.19-12.33.26:402][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.19-12.33.26:402][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.19-12.33.26:402][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.19-12.33.27:693][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.19-12.33.27:696][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.19-12.33.27:762][  0]SourceControl: Source control is disabled
+[2019.12.19-12.33.27:762][  0]SourceControl: Source control is disabled
+[2019.12.19-12.33.27:764][  0]SourceControl: Source control is disabled
+[2019.12.19-12.33.27:765][  0]SourceControl: Source control is disabled
+[2019.12.19-12.33.27:880][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.19-12.33.28:025][  0]LogOcInput: OculusInput pre-init called
+[2019.12.19-12.33.28:033][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.19-12.33.28:033][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.19-12.33.28:120][  0]LogEngine: Initializing Engine...
+[2019.12.19-12.33.28:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.19-12.33.28:122][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.19-12.33.28:369][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.19-12.33.28:394][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.19-12.33.28:411][  0]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-12.33.28:450][  0]LogInit: FAudioDevice initialized.
+[2019.12.19-12.33.28:451][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.19-12.33.28:708][  0]LogDerivedDataCache: Saved boot cache 0.26s 73MB C:/Users/Noah/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.19-12.33.28:709][  0]LogInit: Texture streaming: Enabled
+[2019.12.19-12.33.28:747][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.19-12.33.28:747][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.19-12.33.28:758][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.19-12.33.28:840][  0]LogInit: Transaction tracking system initialized
+[2019.12.19-12.33.28:898][  0]BlueprintLog: New page: Editor Load
+[2019.12.19-12.33.29:042][  0]LocalizationService: Localization service is disabled
+[2019.12.19-12.33.29:332][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.19-12.33.29:333][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.19-12.33.29:627][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/' took 0.03s
+[2019.12.19-12.33.29:627][  0]SourceControl: Source control is disabled
+[2019.12.19-12.33.29:627][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Maps/Scene/Level-Tuto.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.19-12.33.29:628][  0]LightingResults: New page: Lighting Build
+[2019.12.19-12.33.29:633][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-12.33.29:633][  0]MapCheck: New page: Map Check
+[2019.12.19-12.33.29:633][  0]LightingResults: New page: Lighting Build
+[2019.12.19-12.33.29:662][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.12.19-12.33.30:649][  0]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-12.33.30:783][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.19-12.33.30:836][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2019.12.19-12.33.30:836][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.19-12.33.30:837][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,232ms to complete.
+[2019.12.19-12.33.30:837][  0]LogFileHelpers: Loading map 'Level-Tuto' took 1.210
+[2019.12.19-12.33.30:999][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.33.31:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.33.31:017][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.33.31:028][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.33.31:043][  0]LogCollectionManager: Loaded 0 collections in 0.004331 seconds
+[2019.12.19-12.33.31:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Collections/' took 0.00s
+[2019.12.19-12.33.31:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Developers/Noah/Collections/' took 0.00s
+[2019.12.19-12.33.31:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Content/Collections/' took 0.00s
+[2019.12.19-12.33.31:053][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2019.12.19-12.33.31:068][  0]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2863 classes and 680 folders.
+[2019.12.19-12.33.31:082][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.19-12.33.31:193][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.19-12.33.31:204][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.12.19-12.33.31:229][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.19-12.33.31:233][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.19-12.33.31:243][  0]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.19-12.33.31:340][  0]LogRenderer: Reallocating scene render targets to support 1008x456 Format 10 NumSamples 1 (Frame:1).
+[2019.12.19-12.33.31:393][  0]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.19-12.33.31:467][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.19-12.33.31:467][  0]LogLoad: (Engine Initialization) Total time: 11.98 seconds
+[2019.12.19-12.33.31:467][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.19-12.33.31:597][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.19-12.33.31:628][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.19-12.33.31:670][  1]LogAssetRegistry: Asset discovery search completed in 6.2651 seconds
+[2019.12.19-12.33.31:675][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.19-12.33.31:675][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2019.12.19-12.33.40:151][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.19-12.33.41:727][172]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Interface/W_PlayerHUD.W_PlayerHUD
+[2019.12.19-12.33.41:995][172]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.19-12.33.43:266][172]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.19-12.33.56:977][784]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.19-12.34.31:478][618]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={8A671BEA-4D36-B91D-0195-31B77371DB37}
+[2019.12.19-12.34.32:088][689]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-12.34.32:194][689]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2019.12.19-12.43.31:861][480]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2019.12.19-12.43.31:861][480]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Scene/Level-Tuto' took 0.051
+[2019.12.19-12.43.31:863][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/W_PlayerHUD] ([1] browsable assets)...
+[2019.12.19-12.43.31:863][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/W_PlayerHUD]
+[2019.12.19-12.43.32:141][480]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/W_PlayerHUD_Auto1AD6DC32C4D0DCBAF20554DAB9D4D9F47.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Interface/W_PlayerHUD_Auto1.uasset'
+[2019.12.19-12.43.32:144][480]LogFileHelpers: Auto-saving content packages took 0.282
+[2019.12.19-12.46.45:608][578]LogEditorTransaction: Undo Move Widget
+[2019.12.19-12.47.22:325][160]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.19-12.47.25:109][493]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-12.47.25:189][493]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2019.12.19-12.47.26:051][584]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-12.47.26:091][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.47.26:091][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-12.47.26:091][584]PIE: New page: PIE session: Level-Tuto (19 déc. 2019 14:47:26)
+[2019.12.19-12.47.26:093][584]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.19-12.47.26:097][584]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.47.26:115][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018469s)
+[2019.12.19-12.47.26:116][584]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-12.47.26:116][584]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.12.19-12.47.26:116][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.019864s)
+[2019.12.19-12.47.26:162][584]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2019.12.19-12.47.26:170][584]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-12.47.26:196][584]LogInit: FAudioDevice initialized.
+[2019.12.19-12.47.26:207][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.47.26:208][584]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.19-12.47.26:257][584]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.19-13.47.26
+[2019.12.19-12.47.26:283][584]LogWorld: Bringing up level for play took: 0.073464
+[2019.12.19-12.47.26:283][584]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.19-12.47.26:284][584]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.19-12.47.26:299][584]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.19-12.47.26:310][584]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,221
+[2019.12.19-12.47.26:310][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.47.26:334][585]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2019.12.19-12.48.03:779][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.48.03:779][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.48.03:780][307]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.48.03:815][307]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.19-12.48.03:822][307]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-12.48.03:847][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-12.48.03:847][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.48.03:990][307]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2019.12.19-12.48.04:004][308]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.19-12.48.05:225][452]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-12.48.05:266][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.48.05:266][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-12.48.05:266][452]PIE: New page: PIE session: Level-Tuto (19 déc. 2019 14:48:05)
+[2019.12.19-12.48.05:269][452]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.48.05:292][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022412s)
+[2019.12.19-12.48.05:293][452]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-12.48.05:293][452]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2019.12.19-12.48.05:293][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.023843s)
+[2019.12.19-12.48.05:371][452]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.12.19-12.48.05:382][452]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-12.48.05:413][452]LogInit: FAudioDevice initialized.
+[2019.12.19-12.48.05:430][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.48.05:430][452]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.19-12.48.05:480][452]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.19-13.48.05
+[2019.12.19-12.48.05:511][452]LogWorld: Bringing up level for play took: 0.079400
+[2019.12.19-12.48.05:511][452]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.19-12.48.05:513][452]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.19-12.48.05:525][452]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto -0,563
+[2019.12.19-12.48.05:526][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.48.17:616][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.48.17:617][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.48.17:617][650]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.48.17:653][650]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.19-12.48.17:660][650]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-12.48.17:682][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-12.48.17:682][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.48.17:755][650]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2019.12.19-12.48.17:768][651]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.19-12.52.16:309][ 68]LogEditorTransaction: Undo Resize Widget
+[2019.12.19-12.58.33:472][536]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-12.58.33:553][536]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2019.12.19-12.58.34:447][630]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-12.58.34:487][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.58.34:487][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-12.58.34:487][630]PIE: New page: PIE session: Level-Tuto (19 déc. 2019 14:58:34)
+[2019.12.19-12.58.34:488][630]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.58.34:508][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020411s)
+[2019.12.19-12.58.34:509][630]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-12.58.34:509][630]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2019.12.19-12.58.34:509][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.021767s)
+[2019.12.19-12.58.34:553][630]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.12.19-12.58.34:561][630]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-12.58.34:590][630]LogInit: FAudioDevice initialized.
+[2019.12.19-12.58.34:604][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.58.34:604][630]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.19-12.58.34:644][630]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.19-13.58.34
+[2019.12.19-12.58.34:664][630]LogWorld: Bringing up level for play took: 0.059172
+[2019.12.19-12.58.34:664][630]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.19-12.58.34:666][630]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.19-12.58.34:677][630]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,588
+[2019.12.19-12.58.34:677][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.58.47:382][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.58.47:382][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.58.47:383][851]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.58.47:422][851]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.19-12.58.47:428][851]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-12.58.47:449][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-12.58.47:450][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.58.47:524][851]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2019.12.19-12.58.47:536][852]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.19-12.59.17:491][383]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-12.59.17:559][383]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2019.12.19-12.59.18:370][466]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-12.59.18:402][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.18:402][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-12.59.18:402][466]PIE: New page: PIE session: Level-Tuto (19 déc. 2019 14:59:18)
+[2019.12.19-12.59.18:402][466]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.59.18:420][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017605s)
+[2019.12.19-12.59.18:421][466]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-12.59.18:421][466]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2019.12.19-12.59.18:421][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.018862s)
+[2019.12.19-12.59.18:466][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2019.12.19-12.59.18:474][466]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-12.59.18:503][466]LogInit: FAudioDevice initialized.
+[2019.12.19-12.59.18:517][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.59.18:517][466]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.19-12.59.18:565][466]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.19-13.59.18
+[2019.12.19-12.59.18:588][466]LogWorld: Bringing up level for play took: 0.070338
+[2019.12.19-12.59.18:589][466]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.19-12.59.18:590][466]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.19-12.59.18:602][466]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,513
+[2019.12.19-12.59.18:602][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.22:659][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.22:659][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.59.22:659][925]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.59.22:686][925]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.19-12.59.22:692][925]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-12.59.22:708][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-12.59.22:708][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.22:767][925]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.19-12.59.22:778][926]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.19-12.59.49:714][103]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-12.59.49:813][103]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2019.12.19-12.59.50:579][181]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-12.59.50:622][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.50:622][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-12.59.50:622][181]PIE: New page: PIE session: Level-Tuto (19 déc. 2019 14:59:50)
+[2019.12.19-12.59.50:623][181]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.59.50:645][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022223s)
+[2019.12.19-12.59.50:646][181]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-12.59.50:647][181]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2019.12.19-12.59.50:647][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.023634s)
+[2019.12.19-12.59.50:704][181]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2019.12.19-12.59.50:714][181]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-12.59.50:750][181]LogInit: FAudioDevice initialized.
+[2019.12.19-12.59.50:767][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.59.50:767][181]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.19-12.59.50:829][181]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.19-13.59.50
+[2019.12.19-12.59.50:864][181]LogWorld: Bringing up level for play took: 0.095576
+[2019.12.19-12.59.50:864][181]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.19-12.59.50:866][181]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.19-12.59.50:879][181]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,791
+[2019.12.19-12.59.50:880][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.57:524][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.57:525][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-12.59.57:525][827]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-12.59.57:562][827]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.19-12.59.57:570][827]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-12.59.57:588][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-12.59.57:588][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-12.59.57:663][827]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2019.12.19-12.59.57:676][828]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.19-13.01.12:627][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.19-13.01.12:627][701]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Scene/Level-Tuto' took 0.040
+[2019.12.19-13.01.12:629][701]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/W_PlayerHUD] ([1] browsable assets)...
+[2019.12.19-13.01.12:629][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/W_PlayerHUD]
+[2019.12.19-13.01.12:884][701]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/W_PlayerHUD_Auto23446598C4128ECE0CCEACAB56785BEAA.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Interface/W_PlayerHUD_Auto2.uasset'
+[2019.12.19-13.01.12:887][701]LogFileHelpers: Auto-saving content packages took 0.259
+[2019.12.19-13.05.04:125][905]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-13.05.04:205][905]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.12.19-13.12.37:579][829]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-13.12.37:659][829]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2019.12.19-13.13.03:021][816]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2019.12.19-13.13.03:021][816]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Scene/Level-Tuto' took 0.047
+[2019.12.19-13.13.03:023][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Interface/W_PlayerHUD] ([1] browsable assets)...
+[2019.12.19-13.13.03:023][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interface/W_PlayerHUD]
+[2019.12.19-13.13.03:274][816]LogSavePackage: Moving '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/W_PlayerHUD_Auto3F7C82845429C30C09E464DB0BB73DB6C.tmp' to '../../../../../../Users/Noah/Documents/GitHub/ShooterRogue/SpaceRoguelike/Saved/Autosaves/Game/Interface/W_PlayerHUD_Auto3.uasset'
+[2019.12.19-13.13.03:277][816]LogFileHelpers: Auto-saving content packages took 0.255
+[2019.12.19-13.15.10:468][416]LogEditorTransaction: Undo Move Widgets
+[2019.12.19-13.17.03:875][871]LogSlate: Took 0.045246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.19-13.18.31:178][244]LogEditorTransaction: Undo Resize Widget
+[2019.12.19-13.18.31:505][273]LogEditorTransaction: Undo Resize Widget
+[2019.12.19-13.18.31:920][313]LogEditorTransaction: Undo Resize Widget
+[2019.12.19-13.18.41:058][392]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-13.18.41:136][392]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2019.12.19-13.18.42:076][492]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.19-13.18.42:113][492]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-13.18.42:114][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.19-13.18.42:114][492]PIE: New page: PIE session: Level-Tuto (19 déc. 2019 15:18:42)
+[2019.12.19-13.18.42:114][492]LogPlayLevel: Creating play world package: /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-13.18.42:134][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020379s)
+[2019.12.19-13.18.42:135][492]LogAIModule: Creating AISystem for world Level-Tuto
+[2019.12.19-13.18.42:136][492]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2019.12.19-13.18.42:136][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Scene/Level-Tuto.Level-Tuto to /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto (0.021656s)
+[2019.12.19-13.18.42:182][492]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2019.12.19-13.18.42:192][492]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.19-13.18.42:218][492]LogInit: FAudioDevice initialized.
+[2019.12.19-13.18.42:231][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-13.18.42:231][492]LogLoad: Game class is 'BP_GameMode_C'
+[2019.12.19-13.18.42:278][492]LogWorld: Bringing World /Game/Maps/Scene/UEDPIE_0_Level-Tuto.Level-Tuto up for play (max tick rate 0) at 2019.12.19-14.18.42
+[2019.12.19-13.18.42:297][492]LogWorld: Bringing up level for play took: 0.064693
+[2019.12.19-13.18.42:297][492]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.19-13.18.42:299][492]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.19-13.18.42:309][492]PIE: Play in editor start time for /Game/Maps/Scene/UEDPIE_0_Level-Tuto 0,22
+[2019.12.19-13.18.42:310][492]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-13.18.44:381][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-13.18.44:381][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.19-13.18.44:382][680]LogWorld: BeginTearingDown for /Game/Maps/Scene/UEDPIE_0_Level-Tuto
+[2019.12.19-13.18.44:419][680]LogSlate: Window 'SpaceRoguelike Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.19-13.18.44:426][680]LogWorld: UWorld::CleanupWorld for Level-Tuto, bSessionEnded=true, bCleanupResources=true
+[2019.12.19-13.18.44:442][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.19-13.18.44:443][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto' with GeneratedClass '/Game/Maps/Scene/Level-Tuto.Level-Tuto_C' with ClassGeneratedBy '/Game/Maps/Scene/Level-Tuto.Level-Tuto:PersistentLevel.Level-Tuto'
+[2019.12.19-13.18.44:520][680]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2019.12.19-13.18.44:534][681]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.19-13.22.07:165][290]BlueprintLog: New page: Compile W_PlayerHUD
+[2019.12.19-13.22.07:244][290]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2019.12.19-13.22.21:510][919]LogEditorTransaction: Undo Delete current selection
+[2019.12.19-13.22.21:849][950]LogEditorTransaction: Undo Move Node
+[2019.12.19-13.22.22:161][982]LogEditorTransaction: Undo Add Node
+[2019.12.19-13.22.22:436][ 11]LogEditorTransaction: Undo Add Node
+[2019.12.19-13.22.22:760][ 46]LogEditorTransaction: Undo Variable Toggle
+[2019.12.19-13.22.23:049][ 76]LogEditorTransaction: Undo Delete current selection
+[2019.12.19-13.22.23:343][107]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.12.19-13.22.23:625][136]LogEditorTransaction: Undo Edit Vertical Alignment
+[2019.12.19-13.22.23:907][166]LogEditorTransaction: Undo Edit Horizontal Alignment
+[2019.12.19-13.22.24:172][194]LogEditorTransaction: Undo Remove Widget
+[2019.12.19-13.22.24:439][222]LogEditorTransaction: Undo Edit Right
+[2019.12.19-13.22.24:696][249]LogEditorTransaction: Undo Resize Widget
+[2019.12.19-13.22.24:954][276]LogEditorTransaction: Undo Edit Left
+[2019.12.19-13.22.25:303][314]LogEditorTransaction: Undo Edit Top
+[2019.12.19-13.22.25:602][346]LogEditorTransaction: Undo Move Widgets
+[2019.12.19-13.22.25:918][380]LogEditorTransaction: Undo Move Widget
+[2019.12.19-13.22.26:539][450]LogEditorTransaction: Undo Add Widget
+[2019.12.19-13.23.30:743][ 81]LogEditorTransaction: Undo Remove Widget
+[2019.12.19-13.23.34:228][489]LogEditorTransaction: Undo Remove Widget
+[2019.12.19-13.23.57:103][122]LogEditorTransaction: Undo Edit Size Rule
+[2019.12.19-13.23.57:407][145]LogEditorTransaction: Undo Edit Size Rule
+[2019.12.19-13.23.57:648][162]LogEditorTransaction: Undo Remove Widget
+[2019.12.19-13.23.57:898][186]LogEditorTransaction: Undo Move Widget
+[2019.12.19-13.23.58:160][212]LogEditorTransaction: Undo Move Widgets
+[2019.12.19-13.23.58:421][238]LogEditorTransaction: Undo Move Widget
+[2019.12.19-13.23.59:191][325]LogEditorTransaction: Undo Add Widget
+[2019.12.19-13.23.59:526][360]LogEditorTransaction: Undo Edit Size To Content
+[2019.12.19-13.24.00:622][484]LogEditorTransaction: Undo Edit Size To Content
+[2019.12.19-13.24.00:988][523]LogEditorTransaction: Undo Edit Size To Content
+[2019.12.19-13.24.01:304][556]LogEditorTransaction: Undo Edit Size To Content
+[2019.12.19-13.24.01:587][585]LogEditorTransaction: Undo Changed Anchors
+[2019.12.19-13.24.01:863][613]LogEditorTransaction: Undo Clear Children
+[2019.12.19-13.24.02:105][637]LogEditorTransaction: Undo Clear Children
+[2019.12.19-13.24.02:397][667]LogEditorTransaction: Undo Edit Right
+[2019.12.19-13.24.02:647][692]LogEditorTransaction: Undo Add Child
+[2019.12.19-13.24.02:880][715]LogEditorTransaction: Undo Add Child
+[2019.12.19-13.24.03:104][737]LogEditorTransaction: Undo Edit Size To Content
+[2019.12.19-13.24.03:332][759]LogEditorTransaction: Undo Resize Widget
+[2019.12.19-13.24.03:576][783]LogEditorTransaction: Undo Edit Vertical Alignment
+[2019.12.19-13.24.24:033][957]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.653 s
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: 
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: Ensure condition failed: ScissorRect.bottom <= (LONG)Viewport.TopLeftY + (LONG)Viewport.Height [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Commands.cpp] [Line: 262]
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: 
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: Stack: 
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007fffb817b7a9 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007fffb81519f9 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff64c1a72 UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff64c77b0 UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff64c72aa UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff64c8373 UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff64be7ca UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007fffb7ec90d6 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007fffb7ed07f2 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff4004e4a UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff40051f3 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffffc630021 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffffc6385b4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff4459f5f UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ffff44504b1 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ff82dee7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: [Callstack] 0x00007ff82ed3a271 ntdll.dll!UnknownFunction []
+[2019.12.19-13.24.24:033][957]LogOutputDevice: Error: 
+[2019.12.19-13.24.24:033][957]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.19-13.24.26:593][957]LogStats:                    SendNewReport -  2.559 s
+[2019.12.19-13.24.26:593][957]LogStats:             FDebug::EnsureFailed -  4.283 s
+[2019.12.19-13.26.40:343][850]LogEditorTransaction: Undo Edit Size To Content
+[2019.12.19-13.26.40:435][852]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: 
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: Ensure condition failed: ScissorRect.right <= (LONG)Viewport.TopLeftX + (LONG)Viewport.Width [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Commands.cpp] [Line: 261]
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: 
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: Stack: 
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007fffb817b349 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007fffb81519d5 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff64c1a72 UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff64c77b0 UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff64c72aa UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff64c8373 UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff64be7ca UE4Editor-RHI.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007fffb7ec90d6 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007fffb7ed07f2 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff4004e4a UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff40051f3 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffffc630021 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffffc6385b4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff4459f5f UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ffff44504b1 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ff82dee7974 KERNEL32.DLL!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: [Callstack] 0x00007ff82ed3a271 ntdll.dll!UnknownFunction []
+[2019.12.19-13.26.40:435][852]LogOutputDevice: Error: 
+[2019.12.19-13.26.40:435][852]LogStats:                SubmitErrorReport -  0.000 s
